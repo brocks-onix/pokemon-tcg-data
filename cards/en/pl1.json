@@ -71,7 +71,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/1.png",
       "large": "https://images.pokemontcg.io/pl1/1_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-2",
@@ -140,7 +144,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/2.png",
       "large": "https://images.pokemontcg.io/pl1/2_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-3",
@@ -207,7 +215,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/3.png",
       "large": "https://images.pokemontcg.io/pl1/3_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-4",
@@ -273,7 +285,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/4.png",
       "large": "https://images.pokemontcg.io/pl1/4_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-5",
@@ -338,7 +354,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/5.png",
       "large": "https://images.pokemontcg.io/pl1/5_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-6",
@@ -403,7 +423,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/6.png",
       "large": "https://images.pokemontcg.io/pl1/6_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-7",
@@ -470,7 +494,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/7.png",
       "large": "https://images.pokemontcg.io/pl1/7_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo",
+      "Pokémon League"
+    ]
   },
   {
     "id": "pl1-8",
@@ -536,7 +565,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/8.png",
       "large": "https://images.pokemontcg.io/pl1/8_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo",
+      "Normal"
+    ]
   },
   {
     "id": "pl1-9",
@@ -600,7 +634,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/9.png",
       "large": "https://images.pokemontcg.io/pl1/9_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-10",
@@ -677,7 +715,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/10.png",
       "large": "https://images.pokemontcg.io/pl1/10_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-11",
@@ -744,7 +786,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/11.png",
       "large": "https://images.pokemontcg.io/pl1/11_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-12",
@@ -805,7 +851,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/12.png",
       "large": "https://images.pokemontcg.io/pl1/12_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-13",
@@ -870,7 +920,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/13.png",
       "large": "https://images.pokemontcg.io/pl1/13_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-14",
@@ -934,7 +988,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/14.png",
       "large": "https://images.pokemontcg.io/pl1/14_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-15",
@@ -951,9 +1009,7 @@
     "attacks": [
       {
         "name": "Growth",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Attach a Grass Energy card from your hand to Shaymin."
@@ -998,7 +1054,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/15.png",
       "large": "https://images.pokemontcg.io/pl1/15_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-16",
@@ -1060,7 +1120,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/16.png",
       "large": "https://images.pokemontcg.io/pl1/16_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-17",
@@ -1078,9 +1142,7 @@
     "attacks": [
       {
         "name": "Call for Family",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for up to 2 basic Pokémon SP and put them onto your Bench. Shuffle your deck afterward."
@@ -1121,7 +1183,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/17.png",
       "large": "https://images.pokemontcg.io/pl1/17_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-18",
@@ -1195,7 +1261,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/18.png",
       "large": "https://images.pokemontcg.io/pl1/18_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-19",
@@ -1266,7 +1336,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/19.png",
       "large": "https://images.pokemontcg.io/pl1/19_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-20",
@@ -1344,7 +1418,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/20.png",
       "large": "https://images.pokemontcg.io/pl1/20_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-21",
@@ -1404,7 +1482,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/21.png",
       "large": "https://images.pokemontcg.io/pl1/21_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-22",
@@ -1472,7 +1554,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/22.png",
       "large": "https://images.pokemontcg.io/pl1/22_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-23",
@@ -1541,7 +1627,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/23.png",
       "large": "https://images.pokemontcg.io/pl1/23_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-24",
@@ -1610,7 +1700,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/24.png",
       "large": "https://images.pokemontcg.io/pl1/24_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-25",
@@ -1673,7 +1767,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/25.png",
       "large": "https://images.pokemontcg.io/pl1/25_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-26",
@@ -1735,7 +1833,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/26.png",
       "large": "https://images.pokemontcg.io/pl1/26_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-27",
@@ -1803,7 +1905,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/27.png",
       "large": "https://images.pokemontcg.io/pl1/27_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-28",
@@ -1870,7 +1976,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/28.png",
       "large": "https://images.pokemontcg.io/pl1/28_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo",
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "pl1-29",
@@ -1888,9 +1999,7 @@
     "attacks": [
       {
         "name": "Swim",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "30",
         "text": "If your opponent has any Water Energy attached to any of his or her Pokémon, you may do 30 damage to any 1 Benched Pokémon instead. (Don't apply Weakness and Resistance for Benched Pokémon.)"
@@ -1925,7 +2034,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/29.png",
       "large": "https://images.pokemontcg.io/pl1/29_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-30",
@@ -1989,7 +2102,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/30.png",
       "large": "https://images.pokemontcg.io/pl1/30_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-31",
@@ -2044,7 +2161,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/31.png",
       "large": "https://images.pokemontcg.io/pl1/31_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-32",
@@ -2104,7 +2225,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/32.png",
       "large": "https://images.pokemontcg.io/pl1/32_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-33",
@@ -2170,7 +2295,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/33.png",
       "large": "https://images.pokemontcg.io/pl1/33_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-34",
@@ -2238,7 +2367,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/34.png",
       "large": "https://images.pokemontcg.io/pl1/34_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-35",
@@ -2255,9 +2388,7 @@
     "attacks": [
       {
         "name": "Love Call",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Choose 1 of your opponent's Pokémon. Search your deck for a Pokémon that is the same type as the Pokémon you chose, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
@@ -2295,7 +2426,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/35.png",
       "large": "https://images.pokemontcg.io/pl1/35_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-36",
@@ -2313,9 +2448,7 @@
     "attacks": [
       {
         "name": "Flame Bash",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Flip a coin until you get tails. Search your deck for a number of basic Fire Energy cards up to the number of heads and attach them to any of your Pokémon in any way you like. Shuffle your deck afterward."
@@ -2350,7 +2483,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/36.png",
       "large": "https://images.pokemontcg.io/pl1/36_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-37",
@@ -2411,7 +2548,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/37.png",
       "large": "https://images.pokemontcg.io/pl1/37_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-38",
@@ -2428,9 +2569,7 @@
     "attacks": [
       {
         "name": "Energy Blow",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10+",
         "text": "Does 10 damage plus 10 more damage for each Energy attached to Shaymin."
@@ -2476,7 +2615,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/38.png",
       "large": "https://images.pokemontcg.io/pl1/38_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo",
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "pl1-39",
@@ -2542,7 +2686,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/39.png",
       "large": "https://images.pokemontcg.io/pl1/39_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-40",
@@ -2599,7 +2747,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/40.png",
       "large": "https://images.pokemontcg.io/pl1/40_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-41",
@@ -2664,7 +2816,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/41.png",
       "large": "https://images.pokemontcg.io/pl1/41_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-42",
@@ -2725,7 +2881,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/42.png",
       "large": "https://images.pokemontcg.io/pl1/42_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-43",
@@ -2799,7 +2959,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/43.png",
       "large": "https://images.pokemontcg.io/pl1/43_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-44",
@@ -2820,9 +2984,7 @@
     "attacks": [
       {
         "name": "Ascension",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a card that evolves from Cascoon and put it onto Cascoon. (This counts as evolving Cascoon.) Shuffle your deck afterward."
@@ -2862,7 +3024,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/44.png",
       "large": "https://images.pokemontcg.io/pl1/44_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-45",
@@ -2926,7 +3092,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/45.png",
       "large": "https://images.pokemontcg.io/pl1/45_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-46",
@@ -2988,7 +3158,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/46.png",
       "large": "https://images.pokemontcg.io/pl1/46_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-47",
@@ -3046,7 +3220,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/47.png",
       "large": "https://images.pokemontcg.io/pl1/47_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-48",
@@ -3114,7 +3292,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/48.png",
       "large": "https://images.pokemontcg.io/pl1/48_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-49",
@@ -3186,7 +3368,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/49.png",
       "large": "https://images.pokemontcg.io/pl1/49_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-50",
@@ -3252,7 +3438,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/50.png",
       "large": "https://images.pokemontcg.io/pl1/50_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-51",
@@ -3317,7 +3507,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/51.png",
       "large": "https://images.pokemontcg.io/pl1/51_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-52",
@@ -3381,7 +3575,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/52.png",
       "large": "https://images.pokemontcg.io/pl1/52_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-53",
@@ -3436,7 +3634,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/53.png",
       "large": "https://images.pokemontcg.io/pl1/53_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-54",
@@ -3505,7 +3707,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/54.png",
       "large": "https://images.pokemontcg.io/pl1/54_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-55",
@@ -3571,7 +3777,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/55.png",
       "large": "https://images.pokemontcg.io/pl1/55_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-56",
@@ -3629,7 +3839,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/56.png",
       "large": "https://images.pokemontcg.io/pl1/56_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-57",
@@ -3698,7 +3912,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/57.png",
       "large": "https://images.pokemontcg.io/pl1/57_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-58",
@@ -3716,9 +3934,7 @@
     "attacks": [
       {
         "name": "Water Vein",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "50×",
         "text": "Reveal the top 5 cards of your deck. Flip a coin for each Energy card you find there. This attack does 50 damage times the number of heads. Shuffle the revealed cards back into your deck."
@@ -3758,7 +3974,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/58.png",
       "large": "https://images.pokemontcg.io/pl1/58_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-59",
@@ -3821,7 +4041,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/59.png",
       "large": "https://images.pokemontcg.io/pl1/59_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-60",
@@ -3884,7 +4108,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/60.png",
       "large": "https://images.pokemontcg.io/pl1/60_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-61",
@@ -3901,9 +4129,7 @@
     "attacks": [
       {
         "name": "Shed Skin",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Remove 4 damage counters from Seviper."
@@ -3951,7 +4177,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/61.png",
       "large": "https://images.pokemontcg.io/pl1/61_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-62",
@@ -4019,7 +4249,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/62.png",
       "large": "https://images.pokemontcg.io/pl1/62_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-63",
@@ -4040,9 +4274,7 @@
     "attacks": [
       {
         "name": "Ascension",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a card that evolves from Silcoon and put it onto Silcoon. (This counts as evolving Silcoon.) Shuffle your deck afterward."
@@ -4082,7 +4314,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/63.png",
       "large": "https://images.pokemontcg.io/pl1/63_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-64",
@@ -4145,7 +4381,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/64.png",
       "large": "https://images.pokemontcg.io/pl1/64_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-65",
@@ -4207,7 +4447,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/65.png",
       "large": "https://images.pokemontcg.io/pl1/65_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-66",
@@ -4272,7 +4516,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/66.png",
       "large": "https://images.pokemontcg.io/pl1/66_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-67",
@@ -4338,7 +4586,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/67.png",
       "large": "https://images.pokemontcg.io/pl1/67_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-68",
@@ -4355,9 +4607,7 @@
     "attacks": [
       {
         "name": "Poison Breath",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
@@ -4403,7 +4653,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/68.png",
       "large": "https://images.pokemontcg.io/pl1/68_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-69",
@@ -4465,7 +4719,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/69.png",
       "large": "https://images.pokemontcg.io/pl1/69_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-70",
@@ -4526,7 +4784,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/70.png",
       "large": "https://images.pokemontcg.io/pl1/70_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-71",
@@ -4546,9 +4808,7 @@
     "attacks": [
       {
         "name": "Collect",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Draw a card."
@@ -4593,7 +4853,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/71.png",
       "large": "https://images.pokemontcg.io/pl1/71_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-72",
@@ -4660,7 +4924,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/72.png",
       "large": "https://images.pokemontcg.io/pl1/72_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-73",
@@ -4677,9 +4945,7 @@
     "attacks": [
       {
         "name": "Call for Family",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
@@ -4717,7 +4983,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/73.png",
       "large": "https://images.pokemontcg.io/pl1/73_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-74",
@@ -4780,7 +5050,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/74.png",
       "large": "https://images.pokemontcg.io/pl1/74_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-75",
@@ -4800,9 +5074,7 @@
     "attacks": [
       {
         "name": "Division",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for Grimer and put it onto your Bench. Shuffle your deck afterward."
@@ -4841,7 +5113,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/75.png",
       "large": "https://images.pokemontcg.io/pl1/75_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-76",
@@ -4868,9 +5144,7 @@
     "attacks": [
       {
         "name": "Hospitality",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Switch the Defending Pokémon with 1 of your opponent's Benched Pokémon. Remove 2 damage counters from the new Defending Pokémon."
@@ -4899,7 +5173,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/76.png",
       "large": "https://images.pokemontcg.io/pl1/76_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-77",
@@ -4917,9 +5195,7 @@
     "attacks": [
       {
         "name": "Honcho's Command",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for up to 2 in any combination of Stadium cards or Trainer cards that has Team Galactic's Invention in its name, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
@@ -4963,7 +5239,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/77.png",
       "large": "https://images.pokemontcg.io/pl1/77_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-78",
@@ -5024,7 +5304,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/78.png",
       "large": "https://images.pokemontcg.io/pl1/78_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-79",
@@ -5084,7 +5368,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/79.png",
       "large": "https://images.pokemontcg.io/pl1/79_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-80",
@@ -5148,7 +5436,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/80.png",
       "large": "https://images.pokemontcg.io/pl1/80_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-81",
@@ -5208,7 +5500,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/81.png",
       "large": "https://images.pokemontcg.io/pl1/81_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-82",
@@ -5228,9 +5524,7 @@
     "attacks": [
       {
         "name": "Minor Errand-Running",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
@@ -5274,7 +5568,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/82.png",
       "large": "https://images.pokemontcg.io/pl1/82_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-83",
@@ -5294,9 +5592,7 @@
     "attacks": [
       {
         "name": "Take Back",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Flip a coin. If heads, search your discard pile for a Trainer card, show it to your opponent, and put it into your hand."
@@ -5340,7 +5636,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/83.png",
       "large": "https://images.pokemontcg.io/pl1/83_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-84",
@@ -5401,7 +5701,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/84.png",
       "large": "https://images.pokemontcg.io/pl1/84_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-85",
@@ -5462,7 +5766,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/85.png",
       "large": "https://images.pokemontcg.io/pl1/85_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-86",
@@ -5482,9 +5790,7 @@
     "attacks": [
       {
         "name": "Howl",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for Poochyena and put it onto your Bench. Shuffle your deck afterward."
@@ -5528,7 +5834,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/86.png",
       "large": "https://images.pokemontcg.io/pl1/86_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-87",
@@ -5548,9 +5858,7 @@
     "attacks": [
       {
         "name": "Headache",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Flip a coin. If heads, your opponent can't play any Trainer, Supporter, or Stadium cards from his or her hand during his or her next turn."
@@ -5589,7 +5897,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/87.png",
       "large": "https://images.pokemontcg.io/pl1/87_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-88",
@@ -5651,7 +5963,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/88.png",
       "large": "https://images.pokemontcg.io/pl1/88_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-89",
@@ -5671,9 +5987,7 @@
     "attacks": [
       {
         "name": "Future Sight",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Look at the top 5 cards in either player's deck and put them back on top of that player's deck in any order."
@@ -5711,7 +6025,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/89.png",
       "large": "https://images.pokemontcg.io/pl1/89_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-90",
@@ -5772,7 +6090,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/90.png",
       "large": "https://images.pokemontcg.io/pl1/90_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-91",
@@ -5792,9 +6114,7 @@
     "attacks": [
       {
         "name": "Light Punch",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": ""
@@ -5833,7 +6153,13 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/91.png",
       "large": "https://images.pokemontcg.io/pl1/91_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo",
+      "Comic-Con",
+      "Comic-Con (Staff)"
+    ]
   },
   {
     "id": "pl1-92",
@@ -5853,9 +6179,7 @@
     "attacks": [
       {
         "name": "Hypnotic Gaze",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "The Defending Pokémon is now Asleep."
@@ -5899,7 +6223,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/92.png",
       "large": "https://images.pokemontcg.io/pl1/92_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-93",
@@ -5919,9 +6247,7 @@
     "attacks": [
       {
         "name": "Heal Bell",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Remove 1 damage counter from each of your Pokémon."
@@ -5959,7 +6285,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/93.png",
       "large": "https://images.pokemontcg.io/pl1/93_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-94",
@@ -6016,7 +6346,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/94.png",
       "large": "https://images.pokemontcg.io/pl1/94_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-95",
@@ -6077,7 +6411,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/95.png",
       "large": "https://images.pokemontcg.io/pl1/95_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-96",
@@ -6138,7 +6476,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/96.png",
       "large": "https://images.pokemontcg.io/pl1/96_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-97",
@@ -6200,7 +6542,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/97.png",
       "large": "https://images.pokemontcg.io/pl1/97_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-98",
@@ -6217,9 +6563,7 @@
     "attacks": [
       {
         "name": "Show Off",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
@@ -6257,7 +6601,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/98.png",
       "large": "https://images.pokemontcg.io/pl1/98_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-99",
@@ -6277,9 +6625,7 @@
     "attacks": [
       {
         "name": "Focus Energy",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "During your next turn, Torchic's Fire Shard attack's base damage is 80."
@@ -6317,7 +6663,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/99.png",
       "large": "https://images.pokemontcg.io/pl1/99_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-100",
@@ -6377,7 +6727,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/100.png",
       "large": "https://images.pokemontcg.io/pl1/100_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-101",
@@ -6445,7 +6799,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/101.png",
       "large": "https://images.pokemontcg.io/pl1/101_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-102",
@@ -6465,9 +6823,7 @@
     "attacks": [
       {
         "name": "Reheat",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Discard up to 2 Energy cards from your hand. For each card you discarded, draw 2 cards."
@@ -6506,7 +6862,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/102.png",
       "large": "https://images.pokemontcg.io/pl1/102_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-103",
@@ -6568,7 +6928,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/103.png",
       "large": "https://images.pokemontcg.io/pl1/103_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-104",
@@ -6590,7 +6954,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/104.png",
       "large": "https://images.pokemontcg.io/pl1/104_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo",
+      "Pokémon League"
+    ]
   },
   {
     "id": "pl1-105",
@@ -6612,7 +6981,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/105.png",
       "large": "https://images.pokemontcg.io/pl1/105_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-106",
@@ -6634,7 +7007,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/106.png",
       "large": "https://images.pokemontcg.io/pl1/106_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-107",
@@ -6655,7 +7032,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/107.png",
       "large": "https://images.pokemontcg.io/pl1/107_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-108",
@@ -6677,7 +7058,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/108.png",
       "large": "https://images.pokemontcg.io/pl1/108_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-109",
@@ -6699,7 +7084,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/109.png",
       "large": "https://images.pokemontcg.io/pl1/109_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-110",
@@ -6721,7 +7110,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/110.png",
       "large": "https://images.pokemontcg.io/pl1/110_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-111",
@@ -6743,7 +7136,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/111.png",
       "large": "https://images.pokemontcg.io/pl1/111_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-112",
@@ -6766,7 +7163,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/112.png",
       "large": "https://images.pokemontcg.io/pl1/112_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo",
+      "Player Rewards Program"
+    ]
   },
   {
     "id": "pl1-113",
@@ -6789,7 +7191,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/113.png",
       "large": "https://images.pokemontcg.io/pl1/113_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-114",
@@ -6810,7 +7216,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/114.png",
       "large": "https://images.pokemontcg.io/pl1/114_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-115",
@@ -6831,7 +7241,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/115.png",
       "large": "https://images.pokemontcg.io/pl1/115_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-116",
@@ -6853,7 +7267,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/116.png",
       "large": "https://images.pokemontcg.io/pl1/116_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-117",
@@ -6874,7 +7292,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/117.png",
       "large": "https://images.pokemontcg.io/pl1/117_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-118",
@@ -6895,7 +7317,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/118.png",
       "large": "https://images.pokemontcg.io/pl1/118_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-119",
@@ -6924,7 +7350,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/119.png",
       "large": "https://images.pokemontcg.io/pl1/119_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-120",
@@ -6953,7 +7383,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/120.png",
       "large": "https://images.pokemontcg.io/pl1/120_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-121",
@@ -6975,7 +7409,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/121.png",
       "large": "https://images.pokemontcg.io/pl1/121_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "pl1-122",
@@ -7044,7 +7482,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/122.png",
       "large": "https://images.pokemontcg.io/pl1/122_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "pl1-123",
@@ -7107,7 +7548,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/123.png",
       "large": "https://images.pokemontcg.io/pl1/123_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "pl1-124",
@@ -7176,7 +7620,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/124.png",
       "large": "https://images.pokemontcg.io/pl1/124_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "pl1-125",
@@ -7239,7 +7686,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/125.png",
       "large": "https://images.pokemontcg.io/pl1/125_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "pl1-126",
@@ -7305,7 +7755,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/126.png",
       "large": "https://images.pokemontcg.io/pl1/126_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "pl1-127",
@@ -7366,7 +7819,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/127.png",
       "large": "https://images.pokemontcg.io/pl1/127_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "pl1-128",
@@ -7428,7 +7884,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/128.png",
       "large": "https://images.pokemontcg.io/pl1/128_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "pl1-129",
@@ -7488,7 +7947,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/129.png",
       "large": "https://images.pokemontcg.io/pl1/129_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "pl1-130",
@@ -7552,7 +8014,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/130.png",
       "large": "https://images.pokemontcg.io/pl1/130_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "pl1-SH4",
@@ -7619,7 +8084,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/SH4.png",
       "large": "https://images.pokemontcg.io/pl1/SH4_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "pl1-SH5",
@@ -7639,9 +8108,7 @@
     "attacks": [
       {
         "name": "Roost",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Remove 4 damage counters from Swablu. Swablu can't retreat during your next turn."
@@ -7693,7 +8160,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/SH5.png",
       "large": "https://images.pokemontcg.io/pl1/SH5_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "pl1-SH6",
@@ -7713,9 +8184,7 @@
     "attacks": [
       {
         "name": "Find Wildfire",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for up to 2 Fire Energy cards, show them to your opponent, and put them in your hand. Shuffle your deck afterward."
@@ -7762,6 +8231,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pl1/SH6.png",
       "large": "https://images.pokemontcg.io/pl1/SH6_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Cosmos Holo"
+    ]
   }
 ]

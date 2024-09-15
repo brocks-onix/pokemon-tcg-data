@@ -62,7 +62,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/1.png",
       "large": "https://images.pokemontcg.io/base3/1_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-2",
@@ -125,7 +129,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/2.png",
       "large": "https://images.pokemontcg.io/base3/2_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-3",
@@ -175,7 +183,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/3.png",
       "large": "https://images.pokemontcg.io/base3/3_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-4",
@@ -234,7 +246,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/4.png",
       "large": "https://images.pokemontcg.io/base3/4_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-5",
@@ -292,7 +308,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/5.png",
       "large": "https://images.pokemontcg.io/base3/5_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-6",
@@ -348,7 +368,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/6.png",
       "large": "https://images.pokemontcg.io/base3/6_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-7",
@@ -408,7 +432,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/7.png",
       "large": "https://images.pokemontcg.io/base3/7_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-8",
@@ -469,7 +497,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/8.png",
       "large": "https://images.pokemontcg.io/base3/8_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-9",
@@ -531,7 +563,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/9.png",
       "large": "https://images.pokemontcg.io/base3/9_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-10",
@@ -590,7 +626,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/10.png",
       "large": "https://images.pokemontcg.io/base3/10_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-11",
@@ -656,7 +696,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/11.png",
       "large": "https://images.pokemontcg.io/base3/11_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-12",
@@ -717,7 +761,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/12.png",
       "large": "https://images.pokemontcg.io/base3/12_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-13",
@@ -776,7 +824,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/13.png",
       "large": "https://images.pokemontcg.io/base3/13_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-14",
@@ -828,7 +880,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/14.png",
       "large": "https://images.pokemontcg.io/base3/14_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-15",
@@ -880,7 +936,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/15.png",
       "large": "https://images.pokemontcg.io/base3/15_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition",
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "base3-16",
@@ -945,7 +1006,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/16.png",
       "large": "https://images.pokemontcg.io/base3/16_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-17",
@@ -1008,7 +1073,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/17.png",
       "large": "https://images.pokemontcg.io/base3/17_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-18",
@@ -1058,7 +1127,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/18.png",
       "large": "https://images.pokemontcg.io/base3/18_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-19",
@@ -1117,7 +1190,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/19.png",
       "large": "https://images.pokemontcg.io/base3/19_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-20",
@@ -1175,7 +1252,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/20.png",
       "large": "https://images.pokemontcg.io/base3/20_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-21",
@@ -1231,7 +1312,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/21.png",
       "large": "https://images.pokemontcg.io/base3/21_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-22",
@@ -1291,7 +1376,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/22.png",
       "large": "https://images.pokemontcg.io/base3/22_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-23",
@@ -1352,7 +1441,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/23.png",
       "large": "https://images.pokemontcg.io/base3/23_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-24",
@@ -1414,7 +1507,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/24.png",
       "large": "https://images.pokemontcg.io/base3/24_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-25",
@@ -1473,7 +1570,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/25.png",
       "large": "https://images.pokemontcg.io/base3/25_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-26",
@@ -1539,7 +1640,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/26.png",
       "large": "https://images.pokemontcg.io/base3/26_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-27",
@@ -1600,7 +1705,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/27.png",
       "large": "https://images.pokemontcg.io/base3/27_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-28",
@@ -1659,7 +1768,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/28.png",
       "large": "https://images.pokemontcg.io/base3/28_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-29",
@@ -1711,7 +1824,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/29.png",
       "large": "https://images.pokemontcg.io/base3/29_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-30",
@@ -1763,7 +1880,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/30.png",
       "large": "https://images.pokemontcg.io/base3/30_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-31",
@@ -1824,7 +1945,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/31.png",
       "large": "https://images.pokemontcg.io/base3/31_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-32",
@@ -1885,7 +2010,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/32.png",
       "large": "https://images.pokemontcg.io/base3/32_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-33",
@@ -1942,7 +2071,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/33.png",
       "large": "https://images.pokemontcg.io/base3/33_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-34",
@@ -2009,7 +2142,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/34.png",
       "large": "https://images.pokemontcg.io/base3/34_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-35",
@@ -2069,7 +2206,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/35.png",
       "large": "https://images.pokemontcg.io/base3/35_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-36",
@@ -2136,7 +2277,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/36.png",
       "large": "https://images.pokemontcg.io/base3/36_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-37",
@@ -2201,7 +2346,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/37.png",
       "large": "https://images.pokemontcg.io/base3/37_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-38",
@@ -2263,7 +2412,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/38.png",
       "large": "https://images.pokemontcg.io/base3/38_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-39",
@@ -2324,7 +2477,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/39.png",
       "large": "https://images.pokemontcg.io/base3/39_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-40",
@@ -2384,7 +2541,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/40.png",
       "large": "https://images.pokemontcg.io/base3/40_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-41",
@@ -2450,7 +2611,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/41.png",
       "large": "https://images.pokemontcg.io/base3/41_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-42",
@@ -2514,7 +2679,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/42.png",
       "large": "https://images.pokemontcg.io/base3/42_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-43",
@@ -2571,7 +2740,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/43.png",
       "large": "https://images.pokemontcg.io/base3/43_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-44",
@@ -2626,7 +2799,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/44.png",
       "large": "https://images.pokemontcg.io/base3/44_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-45",
@@ -2687,7 +2864,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/45.png",
       "large": "https://images.pokemontcg.io/base3/45_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-46",
@@ -2748,7 +2929,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/46.png",
       "large": "https://images.pokemontcg.io/base3/46_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-47",
@@ -2800,7 +2985,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/47.png",
       "large": "https://images.pokemontcg.io/base3/47_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-48",
@@ -2860,7 +3049,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/48.png",
       "large": "https://images.pokemontcg.io/base3/48_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-49",
@@ -2907,7 +3100,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/49.png",
       "large": "https://images.pokemontcg.io/base3/49_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-50",
@@ -2966,7 +3163,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/50.png",
       "large": "https://images.pokemontcg.io/base3/50_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition",
+      "Wizards of the Coast"
+    ]
   },
   {
     "id": "base3-51",
@@ -3028,7 +3230,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/51.png",
       "large": "https://images.pokemontcg.io/base3/51_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-52",
@@ -3087,7 +3293,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/52.png",
       "large": "https://images.pokemontcg.io/base3/52_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-53",
@@ -3147,7 +3357,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/53.png",
       "large": "https://images.pokemontcg.io/base3/53_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-54",
@@ -3207,7 +3421,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/54.png",
       "large": "https://images.pokemontcg.io/base3/54_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-55",
@@ -3269,7 +3487,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/55.png",
       "large": "https://images.pokemontcg.io/base3/55_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-56",
@@ -3323,7 +3545,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/56.png",
       "large": "https://images.pokemontcg.io/base3/56_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-57",
@@ -3387,7 +3613,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/57.png",
       "large": "https://images.pokemontcg.io/base3/57_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-58",
@@ -3405,7 +3635,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/58.png",
       "large": "https://images.pokemontcg.io/base3/58_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-59",
@@ -3425,7 +3659,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/59.png",
       "large": "https://images.pokemontcg.io/base3/59_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-60",
@@ -3443,7 +3681,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/60.png",
       "large": "https://images.pokemontcg.io/base3/60_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-61",
@@ -3462,7 +3704,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/61.png",
       "large": "https://images.pokemontcg.io/base3/61_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "base3-62",
@@ -3481,6 +3727,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/base3/62.png",
       "large": "https://images.pokemontcg.io/base3/62_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   }
 ]

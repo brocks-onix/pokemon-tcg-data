@@ -56,7 +56,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/1.png",
       "large": "https://images.pokemontcg.io/col1/1_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-2",
@@ -105,7 +109,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/2.png",
       "large": "https://images.pokemontcg.io/col1/2_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-3",
@@ -163,7 +171,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/3.png",
       "large": "https://images.pokemontcg.io/col1/3_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-4",
@@ -221,7 +233,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/4.png",
       "large": "https://images.pokemontcg.io/col1/4_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-5",
@@ -289,7 +305,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/5.png",
       "large": "https://images.pokemontcg.io/col1/5_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-6",
@@ -342,7 +362,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/6.png",
       "large": "https://images.pokemontcg.io/col1/6_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo",
+      "Normal"
+    ]
   },
   {
     "id": "col1-7",
@@ -412,7 +437,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/7.png",
       "large": "https://images.pokemontcg.io/col1/7_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-8",
@@ -470,7 +499,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/8.png",
       "large": "https://images.pokemontcg.io/col1/8_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo",
+      "Normal"
+    ]
   },
   {
     "id": "col1-9",
@@ -540,7 +574,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/9.png",
       "large": "https://images.pokemontcg.io/col1/9_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-10",
@@ -604,7 +642,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/10.png",
       "large": "https://images.pokemontcg.io/col1/10_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-11",
@@ -658,7 +700,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/11.png",
       "large": "https://images.pokemontcg.io/col1/11_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-12",
@@ -711,7 +757,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/12.png",
       "large": "https://images.pokemontcg.io/col1/12_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-13",
@@ -774,7 +824,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/13.png",
       "large": "https://images.pokemontcg.io/col1/13_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-14",
@@ -834,7 +888,13 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/14.png",
       "large": "https://images.pokemontcg.io/col1/14_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo",
+      "Cracked Ice Holo",
+      "Normal"
+    ]
   },
   {
     "id": "col1-15",
@@ -904,7 +964,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/15.png",
       "large": "https://images.pokemontcg.io/col1/15_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-16",
@@ -967,7 +1031,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/16.png",
       "large": "https://images.pokemontcg.io/col1/16_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo",
+      "Normal"
+    ]
   },
   {
     "id": "col1-17",
@@ -1024,7 +1093,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/17.png",
       "large": "https://images.pokemontcg.io/col1/17_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo",
+      "Normal"
+    ]
   },
   {
     "id": "col1-18",
@@ -1085,7 +1159,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/18.png",
       "large": "https://images.pokemontcg.io/col1/18_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-19",
@@ -1137,7 +1215,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/19.png",
       "large": "https://images.pokemontcg.io/col1/19_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-20",
@@ -1194,7 +1276,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/20.png",
       "large": "https://images.pokemontcg.io/col1/20_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-21",
@@ -1249,7 +1335,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/21.png",
       "large": "https://images.pokemontcg.io/col1/21_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-22",
@@ -1313,7 +1403,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/22.png",
       "large": "https://images.pokemontcg.io/col1/22_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-23",
@@ -1378,7 +1472,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/23.png",
       "large": "https://images.pokemontcg.io/col1/23_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-24",
@@ -1404,9 +1502,7 @@
     "attacks": [
       {
         "name": "Eeeeeeek",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Shuffle your hand into your deck, then draw 6 cards. Cleffa is now Asleep."
@@ -1425,7 +1521,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/24.png",
       "large": "https://images.pokemontcg.io/col1/24_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-25",
@@ -1488,7 +1588,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/25.png",
       "large": "https://images.pokemontcg.io/col1/25_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-26",
@@ -1551,7 +1655,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/26.png",
       "large": "https://images.pokemontcg.io/col1/26_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-27",
@@ -1617,7 +1725,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/27.png",
       "large": "https://images.pokemontcg.io/col1/27_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-28",
@@ -1681,7 +1793,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/28.png",
       "large": "https://images.pokemontcg.io/col1/28_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-29",
@@ -1736,7 +1852,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/29.png",
       "large": "https://images.pokemontcg.io/col1/29_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-30",
@@ -1798,7 +1918,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/30.png",
       "large": "https://images.pokemontcg.io/col1/30_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-31",
@@ -1862,7 +1986,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/31.png",
       "large": "https://images.pokemontcg.io/col1/31_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-32",
@@ -1919,7 +2047,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/32.png",
       "large": "https://images.pokemontcg.io/col1/32_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-33",
@@ -1983,7 +2115,13 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/33.png",
       "large": "https://images.pokemontcg.io/col1/33_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo",
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "col1-34",
@@ -2051,7 +2189,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/34.png",
       "large": "https://images.pokemontcg.io/col1/34_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo",
+      "Cracked Ice Holo"
+    ]
   },
   {
     "id": "col1-35",
@@ -2111,7 +2254,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/35.png",
       "large": "https://images.pokemontcg.io/col1/35_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-36",
@@ -2139,9 +2286,7 @@
     "attacks": [
       {
         "name": "Mischievous Punch",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "30",
         "text": "This attack's damage isn't affected by Weakness or Resistance. Tyrogue is now Asleep."
@@ -2160,7 +2305,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/36.png",
       "large": "https://images.pokemontcg.io/col1/36_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-37",
@@ -2221,7 +2370,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/37.png",
       "large": "https://images.pokemontcg.io/col1/37_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-38",
@@ -2280,7 +2433,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/38.png",
       "large": "https://images.pokemontcg.io/col1/38_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-39",
@@ -2339,7 +2496,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/39.png",
       "large": "https://images.pokemontcg.io/col1/39_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-40",
@@ -2408,7 +2569,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/40.png",
       "large": "https://images.pokemontcg.io/col1/40_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-41",
@@ -2472,7 +2637,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/41.png",
       "large": "https://images.pokemontcg.io/col1/41_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-42",
@@ -2542,7 +2711,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/42.png",
       "large": "https://images.pokemontcg.io/col1/42_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-43",
@@ -2610,7 +2783,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/43.png",
       "large": "https://images.pokemontcg.io/col1/43_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-44",
@@ -2669,7 +2846,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/44.png",
       "large": "https://images.pokemontcg.io/col1/44_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-45",
@@ -2730,7 +2911,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/45.png",
       "large": "https://images.pokemontcg.io/col1/45_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-46",
@@ -2756,9 +2941,7 @@
     "attacks": [
       {
         "name": "Play with Fire",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "The Defending Pokémon is now Burned. Magby is now Asleep."
@@ -2777,7 +2960,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/46.png",
       "large": "https://images.pokemontcg.io/col1/46_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-47",
@@ -2800,9 +2987,7 @@
     "attacks": [
       {
         "name": "Sleepy Lost",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Put the top card of your opponent's deck in the Lost Zone. Mime Jr. is now Asleep."
@@ -2821,7 +3006,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/47.png",
       "large": "https://images.pokemontcg.io/col1/47_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-48",
@@ -2890,7 +3079,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/48.png",
       "large": "https://images.pokemontcg.io/col1/48_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-49",
@@ -2953,7 +3146,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/49.png",
       "large": "https://images.pokemontcg.io/col1/49_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-50",
@@ -3003,7 +3200,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/50.png",
       "large": "https://images.pokemontcg.io/col1/50_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-51",
@@ -3061,7 +3262,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/51.png",
       "large": "https://images.pokemontcg.io/col1/51_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-52",
@@ -3121,7 +3326,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/52.png",
       "large": "https://images.pokemontcg.io/col1/52_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-53",
@@ -3187,7 +3396,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/53.png",
       "large": "https://images.pokemontcg.io/col1/53_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-54",
@@ -3246,7 +3459,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/54.png",
       "large": "https://images.pokemontcg.io/col1/54_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-55",
@@ -3296,7 +3513,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/55.png",
       "large": "https://images.pokemontcg.io/col1/55_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-56",
@@ -3363,7 +3584,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/56.png",
       "large": "https://images.pokemontcg.io/col1/56_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-57",
@@ -3420,7 +3645,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/57.png",
       "large": "https://images.pokemontcg.io/col1/57_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-58",
@@ -3479,7 +3708,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/58.png",
       "large": "https://images.pokemontcg.io/col1/58_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-59",
@@ -3535,7 +3768,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/59.png",
       "large": "https://images.pokemontcg.io/col1/59_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-60",
@@ -3595,7 +3832,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/60.png",
       "large": "https://images.pokemontcg.io/col1/60_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-61",
@@ -3646,7 +3887,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/61.png",
       "large": "https://images.pokemontcg.io/col1/61_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-62",
@@ -3706,7 +3951,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/62.png",
       "large": "https://images.pokemontcg.io/col1/62_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-63",
@@ -3762,7 +4011,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/63.png",
       "large": "https://images.pokemontcg.io/col1/63_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-64",
@@ -3826,7 +4079,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/64.png",
       "large": "https://images.pokemontcg.io/col1/64_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-65",
@@ -3891,7 +4148,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/65.png",
       "large": "https://images.pokemontcg.io/col1/65_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-66",
@@ -3956,7 +4217,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/66.png",
       "large": "https://images.pokemontcg.io/col1/66_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-67",
@@ -4021,7 +4286,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/67.png",
       "large": "https://images.pokemontcg.io/col1/67_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-68",
@@ -4082,7 +4351,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/68.png",
       "large": "https://images.pokemontcg.io/col1/68_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-69",
@@ -4141,7 +4414,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/69.png",
       "large": "https://images.pokemontcg.io/col1/69_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-70",
@@ -4193,7 +4470,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/70.png",
       "large": "https://images.pokemontcg.io/col1/70_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-71",
@@ -4254,7 +4535,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/71.png",
       "large": "https://images.pokemontcg.io/col1/71_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-72",
@@ -4322,7 +4607,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/72.png",
       "large": "https://images.pokemontcg.io/col1/72_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-73",
@@ -4372,7 +4661,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/73.png",
       "large": "https://images.pokemontcg.io/col1/73_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-74",
@@ -4425,7 +4718,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/74.png",
       "large": "https://images.pokemontcg.io/col1/74_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-75",
@@ -4485,7 +4782,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/75.png",
       "large": "https://images.pokemontcg.io/col1/75_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-76",
@@ -4507,7 +4808,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/76.png",
       "large": "https://images.pokemontcg.io/col1/76_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-77",
@@ -4531,7 +4836,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/77.png",
       "large": "https://images.pokemontcg.io/col1/77_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-78",
@@ -4552,7 +4861,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/78.png",
       "large": "https://images.pokemontcg.io/col1/78_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-79",
@@ -4574,7 +4887,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/79.png",
       "large": "https://images.pokemontcg.io/col1/79_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-80",
@@ -4595,7 +4912,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/80.png",
       "large": "https://images.pokemontcg.io/col1/80_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-81",
@@ -4617,7 +4938,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/81.png",
       "large": "https://images.pokemontcg.io/col1/81_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-82",
@@ -4639,7 +4964,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/82.png",
       "large": "https://images.pokemontcg.io/col1/82_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-83",
@@ -4661,7 +4990,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/83.png",
       "large": "https://images.pokemontcg.io/col1/83_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-84",
@@ -4682,7 +5015,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/84.png",
       "large": "https://images.pokemontcg.io/col1/84_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-85",
@@ -4704,7 +5041,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/85.png",
       "large": "https://images.pokemontcg.io/col1/85_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-86",
@@ -4725,7 +5066,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/86.png",
       "large": "https://images.pokemontcg.io/col1/86_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-87",
@@ -4746,7 +5091,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/87.png",
       "large": "https://images.pokemontcg.io/col1/87_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Reverse Holo"
+    ]
   },
   {
     "id": "col1-88",
@@ -4765,7 +5114,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/88.png",
       "large": "https://images.pokemontcg.io/col1/88_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Player Rewards Program"
+    ]
   },
   {
     "id": "col1-89",
@@ -4784,7 +5137,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/89.png",
       "large": "https://images.pokemontcg.io/col1/89_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Player Rewards Program"
+    ]
   },
   {
     "id": "col1-90",
@@ -4803,7 +5160,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/90.png",
       "large": "https://images.pokemontcg.io/col1/90_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Player Rewards Program"
+    ]
   },
   {
     "id": "col1-91",
@@ -4822,7 +5183,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/91.png",
       "large": "https://images.pokemontcg.io/col1/91_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Player Rewards Program"
+    ]
   },
   {
     "id": "col1-92",
@@ -4841,7 +5206,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/92.png",
       "large": "https://images.pokemontcg.io/col1/92_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Player Rewards Program"
+    ]
   },
   {
     "id": "col1-93",
@@ -4860,7 +5229,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/93.png",
       "large": "https://images.pokemontcg.io/col1/93_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Player Rewards Program"
+    ]
   },
   {
     "id": "col1-94",
@@ -4879,7 +5252,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/94.png",
       "large": "https://images.pokemontcg.io/col1/94_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Player Rewards Program"
+    ]
   },
   {
     "id": "col1-95",
@@ -4898,7 +5275,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/95.png",
       "large": "https://images.pokemontcg.io/col1/95_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Player Rewards Program"
+    ]
   },
   {
     "id": "col1-SL1",
@@ -4947,7 +5328,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/SL1.png",
       "large": "https://images.pokemontcg.io/col1/SL1_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "col1-SL2",
@@ -5005,7 +5389,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/SL2.png",
       "large": "https://images.pokemontcg.io/col1/SL2_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "col1-SL3",
@@ -5062,7 +5449,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/SL3.png",
       "large": "https://images.pokemontcg.io/col1/SL3_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "col1-SL4",
@@ -5115,7 +5505,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/SL4.png",
       "large": "https://images.pokemontcg.io/col1/SL4_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "col1-SL5",
@@ -5185,7 +5578,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/SL5.png",
       "large": "https://images.pokemontcg.io/col1/SL5_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "col1-SL6",
@@ -5238,7 +5634,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/SL6.png",
       "large": "https://images.pokemontcg.io/col1/SL6_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "col1-SL7",
@@ -5308,7 +5707,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/SL7.png",
       "large": "https://images.pokemontcg.io/col1/SL7_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "col1-SL8",
@@ -5360,7 +5762,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/SL8.png",
       "large": "https://images.pokemontcg.io/col1/SL8_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "col1-SL9",
@@ -5423,7 +5828,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/SL9.png",
       "large": "https://images.pokemontcg.io/col1/SL9_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "col1-SL10",
@@ -5480,7 +5888,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/SL10.png",
       "large": "https://images.pokemontcg.io/col1/SL10_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "col1-SL11",
@@ -5537,6 +5948,9 @@
     "images": {
       "small": "https://images.pokemontcg.io/col1/SL11.png",
       "large": "https://images.pokemontcg.io/col1/SL11_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   }
 ]

@@ -54,7 +54,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd11/1.png",
       "large": "https://images.pokemontcg.io/mcd11/1_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd11-2",
@@ -119,7 +122,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd11/2.png",
       "large": "https://images.pokemontcg.io/mcd11/2_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd11-3",
@@ -171,7 +177,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd11/3.png",
       "large": "https://images.pokemontcg.io/mcd11/3_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd11-4",
@@ -222,7 +231,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd11/4.png",
       "large": "https://images.pokemontcg.io/mcd11/4_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd11-5",
@@ -283,7 +295,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd11/5.png",
       "large": "https://images.pokemontcg.io/mcd11/5_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd11-6",
@@ -334,7 +349,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd11/6.png",
       "large": "https://images.pokemontcg.io/mcd11/6_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd11-7",
@@ -384,7 +402,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd11/7.png",
       "large": "https://images.pokemontcg.io/mcd11/7_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd11-8",
@@ -437,7 +458,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd11/8.png",
       "large": "https://images.pokemontcg.io/mcd11/8_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd11-9",
@@ -503,7 +527,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd11/9.png",
       "large": "https://images.pokemontcg.io/mcd11/9_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd11-10",
@@ -569,7 +596,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd11/10.png",
       "large": "https://images.pokemontcg.io/mcd11/10_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd11-11",
@@ -634,7 +664,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd11/11.png",
       "large": "https://images.pokemontcg.io/mcd11/11_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd11-12",
@@ -683,6 +716,9 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd11/12.png",
       "large": "https://images.pokemontcg.io/mcd11/12_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   }
 ]

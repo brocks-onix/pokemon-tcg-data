@@ -48,7 +48,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/1.png",
       "large": "https://images.pokemontcg.io/det1/1_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "det1-2",
@@ -108,7 +111,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/2.png",
       "large": "https://images.pokemontcg.io/det1/2_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "det1-3",
@@ -159,7 +165,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/3.png",
       "large": "https://images.pokemontcg.io/det1/3_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "det1-4",
@@ -210,7 +219,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/4.png",
       "large": "https://images.pokemontcg.io/det1/4_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "det1-5",
@@ -275,7 +287,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/5.png",
       "large": "https://images.pokemontcg.io/det1/5_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "det1-6",
@@ -335,7 +350,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/6.png",
       "large": "https://images.pokemontcg.io/det1/6_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "det1-7",
@@ -388,7 +406,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/7.png",
       "large": "https://images.pokemontcg.io/det1/7_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "det1-8",
@@ -439,7 +460,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/8.png",
       "large": "https://images.pokemontcg.io/det1/8_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "det1-9",
@@ -496,7 +520,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/9.png",
       "large": "https://images.pokemontcg.io/det1/9_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "det1-10",
@@ -565,7 +592,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/10.png",
       "large": "https://images.pokemontcg.io/det1/10_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "det1-11",
@@ -621,7 +651,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/11.png",
       "large": "https://images.pokemontcg.io/det1/11_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "det1-12",
@@ -682,7 +715,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/12.png",
       "large": "https://images.pokemontcg.io/det1/12_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "det1-13",
@@ -742,7 +778,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/13.png",
       "large": "https://images.pokemontcg.io/det1/13_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "det1-14",
@@ -799,7 +838,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/14.png",
       "large": "https://images.pokemontcg.io/det1/14_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "det1-15",
@@ -858,7 +900,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/15.png",
       "large": "https://images.pokemontcg.io/det1/15_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "det1-16",
@@ -912,7 +957,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/16.png",
       "large": "https://images.pokemontcg.io/det1/16_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "det1-17",
@@ -960,7 +1008,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/17.png",
       "large": "https://images.pokemontcg.io/det1/17_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "det1-18",
@@ -1015,6 +1066,9 @@
     "images": {
       "small": "https://images.pokemontcg.io/det1/18.png",
       "large": "https://images.pokemontcg.io/det1/18_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   }
 ]

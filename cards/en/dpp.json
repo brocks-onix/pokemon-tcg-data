@@ -17,9 +17,7 @@
     "attacks": [
       {
         "name": "Tackle",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": ""
@@ -64,7 +62,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP01.png",
       "large": "https://images.pokemontcg.io/dpp/DP01_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP02",
@@ -84,9 +85,7 @@
     "attacks": [
       {
         "name": "Scratch",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": ""
@@ -125,7 +124,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP02.png",
       "large": "https://images.pokemontcg.io/dpp/DP02_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP03",
@@ -145,9 +147,7 @@
     "attacks": [
       {
         "name": "Peck",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": ""
@@ -186,7 +186,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP03.png",
       "large": "https://images.pokemontcg.io/dpp/DP03_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP04",
@@ -249,7 +252,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP04.png",
       "large": "https://images.pokemontcg.io/dpp/DP04_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP05",
@@ -270,7 +276,16 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP05.png",
       "large": "https://images.pokemontcg.io/dpp/DP05_hires.png"
-    }
+    },
+    "variants": [
+      "World Championships",
+      "World Championships (Staff)",
+      "World Championships (Finalist)",
+      "World Championships (Top 32)",
+      "World Championships (Top 16)",
+      "World Championships (Top 8)",
+      "World Championships (Top 4)"
+    ]
   },
   {
     "id": "dpp-DP06",
@@ -331,7 +346,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP06.png",
       "large": "https://images.pokemontcg.io/dpp/DP06_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP07",
@@ -393,7 +411,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP07.png",
       "large": "https://images.pokemontcg.io/dpp/DP07_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP08",
@@ -464,7 +485,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP08.png",
       "large": "https://images.pokemontcg.io/dpp/DP08_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP09",
@@ -528,7 +552,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP09.png",
       "large": "https://images.pokemontcg.io/dpp/DP09_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP10",
@@ -583,7 +610,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP10.png",
       "large": "https://images.pokemontcg.io/dpp/DP10_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP11",
@@ -644,7 +674,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP11.png",
       "large": "https://images.pokemontcg.io/dpp/DP11_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP12",
@@ -704,7 +737,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP12.png",
       "large": "https://images.pokemontcg.io/dpp/DP12_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP13",
@@ -755,7 +791,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP13.png",
       "large": "https://images.pokemontcg.io/dpp/DP13_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP14",
@@ -818,7 +857,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP14.png",
       "large": "https://images.pokemontcg.io/dpp/DP14_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP15",
@@ -875,7 +917,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP15.png",
       "large": "https://images.pokemontcg.io/dpp/DP15_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP16",
@@ -940,7 +985,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP16.png",
       "large": "https://images.pokemontcg.io/dpp/DP16_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo",
+      "Countdown Calendar"
+    ]
   },
   {
     "id": "dpp-DP17",
@@ -1008,7 +1057,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP17.png",
       "large": "https://images.pokemontcg.io/dpp/DP17_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP18",
@@ -1070,7 +1122,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP18.png",
       "large": "https://images.pokemontcg.io/dpp/DP18_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP19",
@@ -1136,7 +1191,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP19.png",
       "large": "https://images.pokemontcg.io/dpp/DP19_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP20",
@@ -1199,7 +1257,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP20.png",
       "large": "https://images.pokemontcg.io/dpp/DP20_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP21",
@@ -1217,9 +1278,7 @@
     "attacks": [
       {
         "name": "Electromagnetic Induction",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for up to 2 Lightning Energy cards and attach them to 1 of your Pokémon. Shuffle your deck afterward."
@@ -1264,7 +1323,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP21.png",
       "large": "https://images.pokemontcg.io/dpp/DP21_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP22",
@@ -1319,7 +1381,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP22.png",
       "large": "https://images.pokemontcg.io/dpp/DP22_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP23",
@@ -1380,7 +1445,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP23.png",
       "large": "https://images.pokemontcg.io/dpp/DP23_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP24",
@@ -1447,7 +1515,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP24.png",
       "large": "https://images.pokemontcg.io/dpp/DP24_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo",
+      "Jumbo",
+      "Normal"
+    ]
   },
   {
     "id": "dpp-DP25",
@@ -1468,7 +1541,16 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP25.png",
       "large": "https://images.pokemontcg.io/dpp/DP25_hires.png"
-    }
+    },
+    "variants": [
+      "World Championships",
+      "World Championships (Staff)",
+      "World Championships (Finalist)",
+      "World Championships (Top 32)",
+      "World Championships (Top 16)",
+      "World Championships (Top 8)",
+      "World Championships (Top 4)"
+    ]
   },
   {
     "id": "dpp-DP26",
@@ -1534,7 +1616,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP26.png",
       "large": "https://images.pokemontcg.io/dpp/DP26_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "dpp-DP27",
@@ -1594,7 +1680,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP27.png",
       "large": "https://images.pokemontcg.io/dpp/DP27_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "dpp-DP28",
@@ -1655,7 +1745,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP28.png",
       "large": "https://images.pokemontcg.io/dpp/DP28_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP29",
@@ -1676,9 +1769,7 @@
     "attacks": [
       {
         "name": "Hard Crush",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "50×",
         "text": "Discard the top 5 cards from your deck. This attack does 50 damage for each Energy card you discarded."
@@ -1726,7 +1817,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP29.png",
       "large": "https://images.pokemontcg.io/dpp/DP29_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP30",
@@ -1790,7 +1884,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP30.png",
       "large": "https://images.pokemontcg.io/dpp/DP30_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP31",
@@ -1845,7 +1942,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP31.png",
       "large": "https://images.pokemontcg.io/dpp/DP31_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP32",
@@ -1914,7 +2014,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP32.png",
       "large": "https://images.pokemontcg.io/dpp/DP32_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP33",
@@ -1979,7 +2082,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP33.png",
       "large": "https://images.pokemontcg.io/dpp/DP33_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP34",
@@ -2041,7 +2147,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP34.png",
       "large": "https://images.pokemontcg.io/dpp/DP34_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP35",
@@ -2066,9 +2175,7 @@
     "attacks": [
       {
         "name": "Learning",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Search your deck for a Pokémon LV.X that levels up from 1 of your Pokémon, and put it onto that Pokémon. (This counts as leveling up that Pokémon.) Shuffle your deck afterward."
@@ -2107,7 +2214,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP35.png",
       "large": "https://images.pokemontcg.io/dpp/DP35_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP36",
@@ -2173,7 +2283,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP36.png",
       "large": "https://images.pokemontcg.io/dpp/DP36_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP37",
@@ -2241,7 +2354,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP37.png",
       "large": "https://images.pokemontcg.io/dpp/DP37_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP38",
@@ -2310,7 +2426,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP38.png",
       "large": "https://images.pokemontcg.io/dpp/DP38_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP39",
@@ -2371,7 +2490,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP39.png",
       "large": "https://images.pokemontcg.io/dpp/DP39_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP40",
@@ -2436,7 +2558,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP40.png",
       "large": "https://images.pokemontcg.io/dpp/DP40_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo",
+      "Jumbo",
+      "Normal"
+    ]
   },
   {
     "id": "dpp-DP41",
@@ -2493,7 +2620,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP41.png",
       "large": "https://images.pokemontcg.io/dpp/DP41_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP42",
@@ -2557,7 +2687,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP42.png",
       "large": "https://images.pokemontcg.io/dpp/DP42_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP43",
@@ -2620,7 +2753,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP43.png",
       "large": "https://images.pokemontcg.io/dpp/DP43_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP44",
@@ -2688,7 +2824,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP44.png",
       "large": "https://images.pokemontcg.io/dpp/DP44_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP45",
@@ -2759,7 +2898,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP45.png",
       "large": "https://images.pokemontcg.io/dpp/DP45_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP46",
@@ -2816,7 +2958,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP46.png",
       "large": "https://images.pokemontcg.io/dpp/DP46_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP47",
@@ -2886,7 +3031,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP47.png",
       "large": "https://images.pokemontcg.io/dpp/DP47_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP48",
@@ -2907,7 +3055,16 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP48.png",
       "large": "https://images.pokemontcg.io/dpp/DP48_hires.png"
-    }
+    },
+    "variants": [
+      "World Championships",
+      "World Championships (Staff)",
+      "World Championships (Finalist)",
+      "World Championships (Top 32)",
+      "World Championships (Top 16)",
+      "World Championships (Top 8)",
+      "World Championships (Top 4)"
+    ]
   },
   {
     "id": "dpp-DP49",
@@ -2973,7 +3130,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP49.png",
       "large": "https://images.pokemontcg.io/dpp/DP49_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP50",
@@ -3028,7 +3188,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP50.png",
       "large": "https://images.pokemontcg.io/dpp/DP50_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "dpp-DP51",
@@ -3086,7 +3250,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP51.png",
       "large": "https://images.pokemontcg.io/dpp/DP51_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP52",
@@ -3150,7 +3317,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP52.png",
       "large": "https://images.pokemontcg.io/dpp/DP52_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP53",
@@ -3197,7 +3367,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP53.png",
       "large": "https://images.pokemontcg.io/dpp/DP53_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP54",
@@ -3218,7 +3391,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP54.png",
       "large": "https://images.pokemontcg.io/dpp/DP54_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP55",
@@ -3240,7 +3416,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP55.png",
       "large": "https://images.pokemontcg.io/dpp/DP55_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "dpp-DP56",
@@ -3295,6 +3474,9 @@
     "images": {
       "small": "https://images.pokemontcg.io/dpp/DP56.png",
       "large": "https://images.pokemontcg.io/dpp/DP56_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   }
 ]

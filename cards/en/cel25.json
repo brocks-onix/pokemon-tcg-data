@@ -66,7 +66,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/1.png",
       "large": "https://images.pokemontcg.io/cel25/1_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-2",
@@ -130,7 +133,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/2.png",
       "large": "https://images.pokemontcg.io/cel25/2_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-3",
@@ -196,7 +202,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/3.png",
       "large": "https://images.pokemontcg.io/cel25/3_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-4",
@@ -256,7 +265,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/4.png",
       "large": "https://images.pokemontcg.io/cel25/4_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-5",
@@ -319,7 +331,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/5.png",
       "large": "https://images.pokemontcg.io/cel25/5_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-6",
@@ -388,7 +403,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/6.png",
       "large": "https://images.pokemontcg.io/cel25/6_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-7",
@@ -448,7 +466,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/7.png",
       "large": "https://images.pokemontcg.io/cel25/7_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-8",
@@ -506,7 +527,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/8.png",
       "large": "https://images.pokemontcg.io/cel25/8_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-9",
@@ -564,7 +588,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/9.png",
       "large": "https://images.pokemontcg.io/cel25/9_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-10",
@@ -628,7 +655,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/10.png",
       "large": "https://images.pokemontcg.io/cel25/10_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-11",
@@ -692,7 +722,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/11.png",
       "large": "https://images.pokemontcg.io/cel25/11_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-12",
@@ -755,7 +788,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/12.png",
       "large": "https://images.pokemontcg.io/cel25/12_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-13",
@@ -814,7 +850,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/13.png",
       "large": "https://images.pokemontcg.io/cel25/13_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-14",
@@ -877,7 +916,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/14.png",
       "large": "https://images.pokemontcg.io/cel25/14_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-15",
@@ -947,7 +989,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/15.png",
       "large": "https://images.pokemontcg.io/cel25/15_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-16",
@@ -1010,7 +1055,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/16.png",
       "large": "https://images.pokemontcg.io/cel25/16_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-17",
@@ -1076,7 +1124,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/17.png",
       "large": "https://images.pokemontcg.io/cel25/17_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-18",
@@ -1139,7 +1190,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/18.png",
       "large": "https://images.pokemontcg.io/cel25/18_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-19",
@@ -1208,7 +1262,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/19.png",
       "large": "https://images.pokemontcg.io/cel25/19_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-20",
@@ -1276,7 +1333,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/20.png",
       "large": "https://images.pokemontcg.io/cel25/20_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-21",
@@ -1342,7 +1402,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/21.png",
       "large": "https://images.pokemontcg.io/cel25/21_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-22",
@@ -1412,7 +1475,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/22.png",
       "large": "https://images.pokemontcg.io/cel25/22_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-23",
@@ -1437,7 +1503,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/23.png",
       "large": "https://images.pokemontcg.io/cel25/23_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-24",
@@ -1462,7 +1531,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/24.png",
       "large": "https://images.pokemontcg.io/cel25/24_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "cel25-25",
@@ -1526,6 +1598,9 @@
     "images": {
       "small": "https://images.pokemontcg.io/cel25/25.png",
       "large": "https://images.pokemontcg.io/cel25/25_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   }
 ]

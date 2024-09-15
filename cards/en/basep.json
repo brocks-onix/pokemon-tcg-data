@@ -58,7 +58,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/1.png",
       "large": "https://images.pokemontcg.io/basep/1_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Pikachu World Collection 2000"
+    ]
   },
   {
     "id": "basep-2",
@@ -120,7 +124,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/2.png",
       "large": "https://images.pokemontcg.io/basep/2_hires.png"
-    }
+    },
+    "variants": [
+      "Movie Stamp",
+      "Normal"
+    ]
   },
   {
     "id": "basep-3",
@@ -180,7 +188,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/3.png",
       "large": "https://images.pokemontcg.io/basep/3_hires.png"
-    }
+    },
+    "variants": [
+      "Movie Stamp",
+      "Normal"
+    ]
   },
   {
     "id": "basep-4",
@@ -242,7 +254,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/4.png",
       "large": "https://images.pokemontcg.io/basep/4_hires.png"
-    }
+    },
+    "variants": [
+      "Movie Stamp",
+      "Pikachu World Collection 2000",
+      "Normal"
+    ]
   },
   {
     "id": "basep-5",
@@ -301,7 +318,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/5.png",
       "large": "https://images.pokemontcg.io/basep/5_hires.png"
-    }
+    },
+    "variants": [
+      "Movie Stamp",
+      "Normal"
+    ]
   },
   {
     "id": "basep-6",
@@ -361,7 +382,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/6.png",
       "large": "https://images.pokemontcg.io/basep/6_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-7",
@@ -429,7 +453,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/7.png",
       "large": "https://images.pokemontcg.io/basep/7_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-8",
@@ -487,7 +514,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/8.png",
       "large": "https://images.pokemontcg.io/basep/8_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-9",
@@ -545,7 +575,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/9.png",
       "large": "https://images.pokemontcg.io/basep/9_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "basep-10",
@@ -603,7 +636,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/10.png",
       "large": "https://images.pokemontcg.io/basep/10_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "basep-11",
@@ -670,7 +706,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/11.png",
       "large": "https://images.pokemontcg.io/basep/11_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo",
+      "Normal"
+    ]
   },
   {
     "id": "basep-12",
@@ -730,7 +770,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/12.png",
       "large": "https://images.pokemontcg.io/basep/12_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-13",
@@ -790,7 +833,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/13.png",
       "large": "https://images.pokemontcg.io/basep/13_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "basep-14",
@@ -850,7 +896,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/14.png",
       "large": "https://images.pokemontcg.io/basep/14_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-15",
@@ -920,7 +969,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/15.png",
       "large": "https://images.pokemontcg.io/basep/15_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "basep-16",
@@ -941,7 +993,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/16.png",
       "large": "https://images.pokemontcg.io/basep/16_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-17",
@@ -1002,7 +1057,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/17.png",
       "large": "https://images.pokemontcg.io/basep/17_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "basep-18",
@@ -1059,7 +1117,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/18.png",
       "large": "https://images.pokemontcg.io/basep/18_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-19",
@@ -1115,7 +1176,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/19.png",
       "large": "https://images.pokemontcg.io/basep/19_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-20",
@@ -1175,7 +1239,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/20.png",
       "large": "https://images.pokemontcg.io/basep/20_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-21",
@@ -1225,7 +1292,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/21.png",
       "large": "https://images.pokemontcg.io/basep/21_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-22",
@@ -1275,7 +1345,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/22.png",
       "large": "https://images.pokemontcg.io/basep/22_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-23",
@@ -1325,7 +1398,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/23.png",
       "large": "https://images.pokemontcg.io/basep/23_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-24",
@@ -1377,7 +1453,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/24.png",
       "large": "https://images.pokemontcg.io/basep/24_hires.png"
-    }
+    },
+    "variants": [
+      "Pikachu World Collection 2000",
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "basep-25",
@@ -1439,7 +1519,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/25.png",
       "large": "https://images.pokemontcg.io/basep/25_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Pikachu World Collection 2000"
+    ]
   },
   {
     "id": "basep-26",
@@ -1500,7 +1584,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/26.png",
       "large": "https://images.pokemontcg.io/basep/26_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Pikachu World Collection 2000"
+    ]
   },
   {
     "id": "basep-27",
@@ -1557,7 +1645,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/27.png",
       "large": "https://images.pokemontcg.io/basep/27_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Pikachu World Collection 2000"
+    ]
   },
   {
     "id": "basep-28",
@@ -1610,7 +1702,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/28.png",
       "large": "https://images.pokemontcg.io/basep/28_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Pikachu World Collection 2000"
+    ]
   },
   {
     "id": "basep-29",
@@ -1662,7 +1758,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/29.png",
       "large": "https://images.pokemontcg.io/basep/29_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-30",
@@ -1723,7 +1822,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/30.png",
       "large": "https://images.pokemontcg.io/basep/30_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-31",
@@ -1767,7 +1869,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/31.png",
       "large": "https://images.pokemontcg.io/basep/31_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-32",
@@ -1821,7 +1926,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/32.png",
       "large": "https://images.pokemontcg.io/basep/32_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-33",
@@ -1888,7 +1996,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/33.png",
       "large": "https://images.pokemontcg.io/basep/33_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-34",
@@ -1945,7 +2056,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/34.png",
       "large": "https://images.pokemontcg.io/basep/34_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "basep-35",
@@ -1989,7 +2103,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/35.png",
       "large": "https://images.pokemontcg.io/basep/35_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "basep-36",
@@ -2033,7 +2150,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/36.png",
       "large": "https://images.pokemontcg.io/basep/36_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-37",
@@ -2093,7 +2213,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/37.png",
       "large": "https://images.pokemontcg.io/basep/37_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-38",
@@ -2151,7 +2274,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/38.png",
       "large": "https://images.pokemontcg.io/basep/38_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-39",
@@ -2212,7 +2338,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/39.png",
       "large": "https://images.pokemontcg.io/basep/39_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-40",
@@ -2230,7 +2359,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/40.png",
       "large": "https://images.pokemontcg.io/basep/40_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-41",
@@ -2252,7 +2384,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/41.png",
       "large": "https://images.pokemontcg.io/basep/41_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-42",
@@ -2274,7 +2409,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/42.png",
       "large": "https://images.pokemontcg.io/basep/42_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-43",
@@ -2338,7 +2476,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/43.png",
       "large": "https://images.pokemontcg.io/basep/43_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-44",
@@ -2401,7 +2542,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/44.png",
       "large": "https://images.pokemontcg.io/basep/44_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-45",
@@ -2459,7 +2603,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/45.png",
       "large": "https://images.pokemontcg.io/basep/45_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-46",
@@ -2520,7 +2667,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/46.png",
       "large": "https://images.pokemontcg.io/basep/46_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-47",
@@ -2575,7 +2725,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/47.png",
       "large": "https://images.pokemontcg.io/basep/47_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-48",
@@ -2634,7 +2787,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/48.png",
       "large": "https://images.pokemontcg.io/basep/48_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-49",
@@ -2701,7 +2857,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/49.png",
       "large": "https://images.pokemontcg.io/basep/49_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "basep-50",
@@ -2748,7 +2907,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/50.png",
       "large": "https://images.pokemontcg.io/basep/50_hires.png"
-    }
+    },
+    "variants": [
+      "Movie Stamp"
+    ]
   },
   {
     "id": "basep-51",
@@ -2803,7 +2965,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/51.png",
       "large": "https://images.pokemontcg.io/basep/51_hires.png"
-    }
+    },
+    "variants": [
+      "Pokémon Center",
+      "Normal"
+    ]
   },
   {
     "id": "basep-52",
@@ -2859,7 +3025,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/52.png",
       "large": "https://images.pokemontcg.io/basep/52_hires.png"
-    }
+    },
+    "variants": [
+      "Pokémon Center",
+      "Normal"
+    ]
   },
   {
     "id": "basep-53",
@@ -2914,6 +3084,9 @@
     "images": {
       "small": "https://images.pokemontcg.io/basep/53.png",
       "large": "https://images.pokemontcg.io/basep/53_hires.png"
-    }
+    },
+    "variants": [
+      "Movie Stamp"
+    ]
   }
 ]

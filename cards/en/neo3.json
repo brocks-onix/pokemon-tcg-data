@@ -60,7 +60,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/1.png",
       "large": "https://images.pokemontcg.io/neo3/1_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-2",
@@ -126,7 +130,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/2.png",
       "large": "https://images.pokemontcg.io/neo3/2_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-3",
@@ -181,7 +189,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/3.png",
       "large": "https://images.pokemontcg.io/neo3/3_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-4",
@@ -243,7 +255,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/4.png",
       "large": "https://images.pokemontcg.io/neo3/4_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-5",
@@ -298,7 +314,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/5.png",
       "large": "https://images.pokemontcg.io/neo3/5_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-6",
@@ -355,7 +375,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/6.png",
       "large": "https://images.pokemontcg.io/neo3/6_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-7",
@@ -434,7 +458,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/7.png",
       "large": "https://images.pokemontcg.io/neo3/7_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-8",
@@ -494,7 +522,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/8.png",
       "large": "https://images.pokemontcg.io/neo3/8_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-9",
@@ -554,7 +586,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/9.png",
       "large": "https://images.pokemontcg.io/neo3/9_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-10",
@@ -622,7 +658,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/10.png",
       "large": "https://images.pokemontcg.io/neo3/10_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-11",
@@ -684,7 +724,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/11.png",
       "large": "https://images.pokemontcg.io/neo3/11_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-12",
@@ -751,7 +795,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/12.png",
       "large": "https://images.pokemontcg.io/neo3/12_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-13",
@@ -808,7 +856,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/13.png",
       "large": "https://images.pokemontcg.io/neo3/13_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-14",
@@ -865,7 +917,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/14.png",
       "large": "https://images.pokemontcg.io/neo3/14_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-15",
@@ -930,7 +986,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/15.png",
       "large": "https://images.pokemontcg.io/neo3/15_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-16",
@@ -979,7 +1039,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/16.png",
       "large": "https://images.pokemontcg.io/neo3/16_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-17",
@@ -1032,7 +1096,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/17.png",
       "large": "https://images.pokemontcg.io/neo3/17_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-18",
@@ -1090,7 +1158,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/18.png",
       "large": "https://images.pokemontcg.io/neo3/18_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-19",
@@ -1146,7 +1218,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/19.png",
       "large": "https://images.pokemontcg.io/neo3/19_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-20",
@@ -1204,7 +1280,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/20.png",
       "large": "https://images.pokemontcg.io/neo3/20_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-21",
@@ -1265,7 +1345,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/21.png",
       "large": "https://images.pokemontcg.io/neo3/21_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-22",
@@ -1318,7 +1402,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/22.png",
       "large": "https://images.pokemontcg.io/neo3/22_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-23",
@@ -1384,7 +1472,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/23.png",
       "large": "https://images.pokemontcg.io/neo3/23_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-24",
@@ -1441,7 +1533,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/24.png",
       "large": "https://images.pokemontcg.io/neo3/24_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-25",
@@ -1501,7 +1597,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/25.png",
       "large": "https://images.pokemontcg.io/neo3/25_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-26",
@@ -1559,7 +1659,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/26.png",
       "large": "https://images.pokemontcg.io/neo3/26_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-27",
@@ -1612,7 +1716,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/27.png",
       "large": "https://images.pokemontcg.io/neo3/27_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-28",
@@ -1675,7 +1783,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/28.png",
       "large": "https://images.pokemontcg.io/neo3/28_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-29",
@@ -1739,7 +1851,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/29.png",
       "large": "https://images.pokemontcg.io/neo3/29_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-30",
@@ -1804,7 +1920,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/30.png",
       "large": "https://images.pokemontcg.io/neo3/30_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-31",
@@ -1863,7 +1983,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/31.png",
       "large": "https://images.pokemontcg.io/neo3/31_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-32",
@@ -1922,7 +2046,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/32.png",
       "large": "https://images.pokemontcg.io/neo3/32_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-33",
@@ -1982,7 +2110,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/33.png",
       "large": "https://images.pokemontcg.io/neo3/33_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-34",
@@ -2043,7 +2175,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/34.png",
       "large": "https://images.pokemontcg.io/neo3/34_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-35",
@@ -2101,7 +2237,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/35.png",
       "large": "https://images.pokemontcg.io/neo3/35_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-36",
@@ -2174,7 +2314,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/36.png",
       "large": "https://images.pokemontcg.io/neo3/36_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-37",
@@ -2233,7 +2377,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/37.png",
       "large": "https://images.pokemontcg.io/neo3/37_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-38",
@@ -2298,7 +2446,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/38.png",
       "large": "https://images.pokemontcg.io/neo3/38_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-39",
@@ -2356,7 +2508,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/39.png",
       "large": "https://images.pokemontcg.io/neo3/39_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-40",
@@ -2414,7 +2570,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/40.png",
       "large": "https://images.pokemontcg.io/neo3/40_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-41",
@@ -2477,7 +2637,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/41.png",
       "large": "https://images.pokemontcg.io/neo3/41_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-42",
@@ -2537,7 +2701,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/42.png",
       "large": "https://images.pokemontcg.io/neo3/42_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-43",
@@ -2605,7 +2773,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/43.png",
       "large": "https://images.pokemontcg.io/neo3/43_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-44",
@@ -2656,7 +2828,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/44.png",
       "large": "https://images.pokemontcg.io/neo3/44_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-45",
@@ -2703,7 +2879,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/45.png",
       "large": "https://images.pokemontcg.io/neo3/45_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-46",
@@ -2760,7 +2940,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/46.png",
       "large": "https://images.pokemontcg.io/neo3/46_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-47",
@@ -2821,7 +3005,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/47.png",
       "large": "https://images.pokemontcg.io/neo3/47_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-48",
@@ -2890,7 +3078,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/48.png",
       "large": "https://images.pokemontcg.io/neo3/48_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-49",
@@ -2948,7 +3140,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/49.png",
       "large": "https://images.pokemontcg.io/neo3/49_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-50",
@@ -2995,7 +3191,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/50.png",
       "large": "https://images.pokemontcg.io/neo3/50_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-51",
@@ -3051,7 +3251,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/51.png",
       "large": "https://images.pokemontcg.io/neo3/51_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-52",
@@ -3114,7 +3318,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/52.png",
       "large": "https://images.pokemontcg.io/neo3/52_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-53",
@@ -3176,7 +3384,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/53.png",
       "large": "https://images.pokemontcg.io/neo3/53_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-54",
@@ -3220,7 +3432,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/54.png",
       "large": "https://images.pokemontcg.io/neo3/54_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-55",
@@ -3287,7 +3503,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/55.png",
       "large": "https://images.pokemontcg.io/neo3/55_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-56",
@@ -3347,7 +3567,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/56.png",
       "large": "https://images.pokemontcg.io/neo3/56_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-57",
@@ -3414,7 +3638,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/57.png",
       "large": "https://images.pokemontcg.io/neo3/57_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-58",
@@ -3472,7 +3700,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/58.png",
       "large": "https://images.pokemontcg.io/neo3/58_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-59",
@@ -3534,7 +3766,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/59.png",
       "large": "https://images.pokemontcg.io/neo3/59_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-60",
@@ -3556,7 +3792,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/60.png",
       "large": "https://images.pokemontcg.io/neo3/60_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-61",
@@ -3578,7 +3818,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/61.png",
       "large": "https://images.pokemontcg.io/neo3/61_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-62",
@@ -3596,7 +3840,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/62.png",
       "large": "https://images.pokemontcg.io/neo3/62_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-63",
@@ -3618,7 +3866,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/63.png",
       "large": "https://images.pokemontcg.io/neo3/63_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-64",
@@ -3636,7 +3888,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/64.png",
       "large": "https://images.pokemontcg.io/neo3/64_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-65",
@@ -3709,7 +3965,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/65.png",
       "large": "https://images.pokemontcg.io/neo3/65_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   },
   {
     "id": "neo3-66",
@@ -3772,6 +4032,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/neo3/66.png",
       "large": "https://images.pokemontcg.io/neo3/66_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "1st Edition"
+    ]
   }
 ]

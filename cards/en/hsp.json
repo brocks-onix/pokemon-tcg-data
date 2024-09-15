@@ -64,7 +64,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS01.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS01_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS02",
@@ -130,7 +133,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS02.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS02_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS03",
@@ -198,7 +204,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS03.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS03_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS04",
@@ -255,7 +264,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS04.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS04_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS05",
@@ -318,7 +330,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS05.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS05_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS06",
@@ -381,7 +396,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS06.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS06_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS07",
@@ -441,7 +459,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS07.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS07_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS08",
@@ -506,7 +527,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS08.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS08_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS09",
@@ -564,7 +588,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS09.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS09_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS10",
@@ -622,7 +649,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS10.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS10_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo",
+      "Cracked Ice Holo"
+    ]
   },
   {
     "id": "hsp-HGSS11",
@@ -680,7 +711,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS11.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS11_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo",
+      "Cracked Ice Holo"
+    ]
   },
   {
     "id": "hsp-HGSS12",
@@ -706,9 +741,7 @@
     "attacks": [
       {
         "name": "Eeeeeeek",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Shuffle your hand into your deck, then draw 6 cards. Cleffa is now Asleep."
@@ -727,7 +760,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS12.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS12_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS13",
@@ -753,9 +789,7 @@
     "attacks": [
       {
         "name": "Energy Antics",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Move an Energy card attached to 1 of your opponent's Pokémon to another of your opponent's Pokémon. Smoochum is now Asleep."
@@ -774,7 +808,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS13.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS13_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS14",
@@ -833,7 +870,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS14.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS14_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS15",
@@ -888,7 +928,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS15.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS15_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS16",
@@ -950,7 +993,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS16.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS16_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS17",
@@ -1012,7 +1058,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS17.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS17_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS18",
@@ -1033,7 +1082,16 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS18.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS18_hires.png"
-    }
+    },
+    "variants": [
+      "World Championships",
+      "World Championships (Staff)",
+      "World Championships (Finalist)",
+      "World Championships (Top 32)",
+      "World Championships (Top 16)",
+      "World Championships (Top 8)",
+      "World Championships (Top 4)"
+    ]
   },
   {
     "id": "hsp-HGSS19",
@@ -1088,7 +1146,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS19.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS19_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS20",
@@ -1137,7 +1198,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS20.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS20_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS21",
@@ -1186,7 +1250,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS21.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS21_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS22",
@@ -1246,7 +1313,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS22.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS22_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS23",
@@ -1307,7 +1377,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS23.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS23_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "hsp-HGSS24",
@@ -1364,7 +1437,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS24.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS24_hires.png"
-    }
+    },
+    "variants": [
+      "Cracked Ice Holo"
+    ]
   },
   {
     "id": "hsp-HGSS25",
@@ -1423,6 +1499,9 @@
     "images": {
       "small": "https://images.pokemontcg.io/hsp/HGSS25.png",
       "large": "https://images.pokemontcg.io/hsp/HGSS25_hires.png"
-    }
+    },
+    "variants": [
+      "Cracked Ice Holo"
+    ]
   }
 ]

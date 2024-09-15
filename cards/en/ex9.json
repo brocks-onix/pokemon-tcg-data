@@ -63,7 +63,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/1.png",
       "large": "https://images.pokemontcg.io/ex9/1_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Set Stamp",
+      "Normal"
+    ]
   },
   {
     "id": "ex9-2",
@@ -117,7 +122,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/2.png",
       "large": "https://images.pokemontcg.io/ex9/2_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-3",
@@ -198,7 +207,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/3.png",
       "large": "https://images.pokemontcg.io/ex9/3_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Set Stamp",
+      "National Championships"
+    ]
   },
   {
     "id": "ex9-4",
@@ -266,7 +280,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/4.png",
       "large": "https://images.pokemontcg.io/ex9/4_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-5",
@@ -323,7 +341,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/5.png",
       "large": "https://images.pokemontcg.io/ex9/5_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-6",
@@ -381,7 +403,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/6.png",
       "large": "https://images.pokemontcg.io/ex9/6_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-7",
@@ -446,7 +472,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/7.png",
       "large": "https://images.pokemontcg.io/ex9/7_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Set Stamp",
+      "Normal"
+    ]
   },
   {
     "id": "ex9-8",
@@ -505,7 +536,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/8.png",
       "large": "https://images.pokemontcg.io/ex9/8_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-9",
@@ -564,7 +599,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/9.png",
       "large": "https://images.pokemontcg.io/ex9/9_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-10",
@@ -637,7 +676,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/10.png",
       "large": "https://images.pokemontcg.io/ex9/10_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Set Stamp",
+      "Normal"
+    ]
   },
   {
     "id": "ex9-11",
@@ -703,7 +747,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/11.png",
       "large": "https://images.pokemontcg.io/ex9/11_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Set Stamp",
+      "Normal"
+    ]
   },
   {
     "id": "ex9-12",
@@ -759,7 +808,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/12.png",
       "large": "https://images.pokemontcg.io/ex9/12_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-13",
@@ -817,7 +870,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/13.png",
       "large": "https://images.pokemontcg.io/ex9/13_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-14",
@@ -877,7 +934,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/14.png",
       "large": "https://images.pokemontcg.io/ex9/14_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-15",
@@ -935,7 +996,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/15.png",
       "large": "https://images.pokemontcg.io/ex9/15_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-16",
@@ -998,7 +1063,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/16.png",
       "large": "https://images.pokemontcg.io/ex9/16_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-17",
@@ -1057,7 +1126,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/17.png",
       "large": "https://images.pokemontcg.io/ex9/17_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-18",
@@ -1113,7 +1186,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/18.png",
       "large": "https://images.pokemontcg.io/ex9/18_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-19",
@@ -1177,7 +1254,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/19.png",
       "large": "https://images.pokemontcg.io/ex9/19_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-20",
@@ -1234,7 +1315,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/20.png",
       "large": "https://images.pokemontcg.io/ex9/20_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-21",
@@ -1290,7 +1375,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/21.png",
       "large": "https://images.pokemontcg.io/ex9/21_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-22",
@@ -1348,7 +1437,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/22.png",
       "large": "https://images.pokemontcg.io/ex9/22_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-23",
@@ -1408,7 +1501,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/23.png",
       "large": "https://images.pokemontcg.io/ex9/23_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-24",
@@ -1464,7 +1561,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/24.png",
       "large": "https://images.pokemontcg.io/ex9/24_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-25",
@@ -1526,7 +1627,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/25.png",
       "large": "https://images.pokemontcg.io/ex9/25_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-26",
@@ -1591,7 +1696,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/26.png",
       "large": "https://images.pokemontcg.io/ex9/26_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-27",
@@ -1649,7 +1758,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/27.png",
       "large": "https://images.pokemontcg.io/ex9/27_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-28",
@@ -1716,7 +1829,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/28.png",
       "large": "https://images.pokemontcg.io/ex9/28_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-29",
@@ -1775,7 +1892,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/29.png",
       "large": "https://images.pokemontcg.io/ex9/29_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-30",
@@ -1832,7 +1953,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/30.png",
       "large": "https://images.pokemontcg.io/ex9/30_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-31",
@@ -1891,7 +2016,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/31.png",
       "large": "https://images.pokemontcg.io/ex9/31_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-32",
@@ -1947,7 +2076,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/32.png",
       "large": "https://images.pokemontcg.io/ex9/32_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-33",
@@ -2010,7 +2143,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/33.png",
       "large": "https://images.pokemontcg.io/ex9/33_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-34",
@@ -2063,7 +2200,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/34.png",
       "large": "https://images.pokemontcg.io/ex9/34_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-35",
@@ -2125,7 +2266,13 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/35.png",
       "large": "https://images.pokemontcg.io/ex9/35_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp",
+      "Regional Championship",
+      "State Championships"
+    ]
   },
   {
     "id": "ex9-36",
@@ -2186,7 +2333,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/36.png",
       "large": "https://images.pokemontcg.io/ex9/36_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-37",
@@ -2246,7 +2397,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/37.png",
       "large": "https://images.pokemontcg.io/ex9/37_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-38",
@@ -2304,7 +2459,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/38.png",
       "large": "https://images.pokemontcg.io/ex9/38_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-39",
@@ -2366,7 +2525,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/39.png",
       "large": "https://images.pokemontcg.io/ex9/39_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-40",
@@ -2426,7 +2589,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/40.png",
       "large": "https://images.pokemontcg.io/ex9/40_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-41",
@@ -2486,7 +2653,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/41.png",
       "large": "https://images.pokemontcg.io/ex9/41_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-42",
@@ -2542,7 +2713,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/42.png",
       "large": "https://images.pokemontcg.io/ex9/42_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-43",
@@ -2602,7 +2777,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/43.png",
       "large": "https://images.pokemontcg.io/ex9/43_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-44",
@@ -2651,7 +2830,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/44.png",
       "large": "https://images.pokemontcg.io/ex9/44_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-45",
@@ -2706,7 +2889,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/45.png",
       "large": "https://images.pokemontcg.io/ex9/45_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-46",
@@ -2761,7 +2948,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/46.png",
       "large": "https://images.pokemontcg.io/ex9/46_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-47",
@@ -2816,7 +3007,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/47.png",
       "large": "https://images.pokemontcg.io/ex9/47_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-48",
@@ -2881,7 +3076,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/48.png",
       "large": "https://images.pokemontcg.io/ex9/48_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-49",
@@ -2938,7 +3137,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/49.png",
       "large": "https://images.pokemontcg.io/ex9/49_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-50",
@@ -2987,7 +3190,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/50.png",
       "large": "https://images.pokemontcg.io/ex9/50_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-51",
@@ -3046,7 +3253,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/51.png",
       "large": "https://images.pokemontcg.io/ex9/51_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-52",
@@ -3096,7 +3307,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/52.png",
       "large": "https://images.pokemontcg.io/ex9/52_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-53",
@@ -3152,7 +3367,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/53.png",
       "large": "https://images.pokemontcg.io/ex9/53_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-54",
@@ -3201,7 +3420,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/54.png",
       "large": "https://images.pokemontcg.io/ex9/54_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-55",
@@ -3260,7 +3483,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/55.png",
       "large": "https://images.pokemontcg.io/ex9/55_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-56",
@@ -3309,7 +3536,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/56.png",
       "large": "https://images.pokemontcg.io/ex9/56_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp",
+      "Wizard World"
+    ]
   },
   {
     "id": "ex9-57",
@@ -3367,7 +3599,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/57.png",
       "large": "https://images.pokemontcg.io/ex9/57_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-58",
@@ -3427,7 +3663,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/58.png",
       "large": "https://images.pokemontcg.io/ex9/58_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-59",
@@ -3483,7 +3723,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/59.png",
       "large": "https://images.pokemontcg.io/ex9/59_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp",
+      "Nintendo World"
+    ]
   },
   {
     "id": "ex9-60",
@@ -3542,7 +3787,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/60.png",
       "large": "https://images.pokemontcg.io/ex9/60_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp",
+      "Comic-Con"
+    ]
   },
   {
     "id": "ex9-61",
@@ -3591,7 +3841,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/61.png",
       "large": "https://images.pokemontcg.io/ex9/61_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-62",
@@ -3650,7 +3904,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/62.png",
       "large": "https://images.pokemontcg.io/ex9/62_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-63",
@@ -3715,7 +3973,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/63.png",
       "large": "https://images.pokemontcg.io/ex9/63_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-64",
@@ -3765,7 +4027,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/64.png",
       "large": "https://images.pokemontcg.io/ex9/64_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-65",
@@ -3814,7 +4080,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/65.png",
       "large": "https://images.pokemontcg.io/ex9/65_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-66",
@@ -3863,7 +4133,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/66.png",
       "large": "https://images.pokemontcg.io/ex9/66_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-67",
@@ -3925,7 +4199,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/67.png",
       "large": "https://images.pokemontcg.io/ex9/67_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-68",
@@ -3980,7 +4258,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/68.png",
       "large": "https://images.pokemontcg.io/ex9/68_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-69",
@@ -4029,7 +4311,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/69.png",
       "large": "https://images.pokemontcg.io/ex9/69_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp",
+      "Wizard World"
+    ]
   },
   {
     "id": "ex9-70",
@@ -4084,7 +4371,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/70.png",
       "large": "https://images.pokemontcg.io/ex9/70_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp",
+      "GenCon"
+    ]
   },
   {
     "id": "ex9-71",
@@ -4144,7 +4436,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/71.png",
       "large": "https://images.pokemontcg.io/ex9/71_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-72",
@@ -4203,7 +4499,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/72.png",
       "large": "https://images.pokemontcg.io/ex9/72_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-73",
@@ -4262,7 +4562,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/73.png",
       "large": "https://images.pokemontcg.io/ex9/73_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp",
+      "City Championships"
+    ]
   },
   {
     "id": "ex9-74",
@@ -4321,7 +4626,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/74.png",
       "large": "https://images.pokemontcg.io/ex9/74_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-75",
@@ -4343,7 +4652,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/75.png",
       "large": "https://images.pokemontcg.io/ex9/75_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-76",
@@ -4364,7 +4677,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/76.png",
       "large": "https://images.pokemontcg.io/ex9/76_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-77",
@@ -4386,7 +4703,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/77.png",
       "large": "https://images.pokemontcg.io/ex9/77_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-78",
@@ -4409,7 +4730,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/78.png",
       "large": "https://images.pokemontcg.io/ex9/78_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-79",
@@ -4431,7 +4756,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/79.png",
       "large": "https://images.pokemontcg.io/ex9/79_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-80",
@@ -4453,7 +4782,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/80.png",
       "large": "https://images.pokemontcg.io/ex9/80_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-81",
@@ -4474,7 +4807,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/81.png",
       "large": "https://images.pokemontcg.io/ex9/81_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-82",
@@ -4496,7 +4833,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/82.png",
       "large": "https://images.pokemontcg.io/ex9/82_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp",
+      "Professor Program"
+    ]
   },
   {
     "id": "ex9-83",
@@ -4519,7 +4861,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/83.png",
       "large": "https://images.pokemontcg.io/ex9/83_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-84",
@@ -4541,7 +4887,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/84.png",
       "large": "https://images.pokemontcg.io/ex9/84_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-85",
@@ -4563,7 +4913,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/85.png",
       "large": "https://images.pokemontcg.io/ex9/85_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-86",
@@ -4584,7 +4938,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/86.png",
       "large": "https://images.pokemontcg.io/ex9/86_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-87",
@@ -4605,7 +4963,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/87.png",
       "large": "https://images.pokemontcg.io/ex9/87_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-88",
@@ -4626,7 +4988,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/88.png",
       "large": "https://images.pokemontcg.io/ex9/88_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-89",
@@ -4647,7 +5013,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/89.png",
       "large": "https://images.pokemontcg.io/ex9/89_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Set Stamp"
+    ]
   },
   {
     "id": "ex9-90",
@@ -4710,7 +5080,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/90.png",
       "large": "https://images.pokemontcg.io/ex9/90_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "ex9-91",
@@ -4779,7 +5152,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/91.png",
       "large": "https://images.pokemontcg.io/ex9/91_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "ex9-92",
@@ -4850,7 +5226,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/92.png",
       "large": "https://images.pokemontcg.io/ex9/92_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "ex9-93",
@@ -4909,7 +5288,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/93.png",
       "large": "https://images.pokemontcg.io/ex9/93_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "ex9-94",
@@ -4981,7 +5363,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/94.png",
       "large": "https://images.pokemontcg.io/ex9/94_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "ex9-95",
@@ -5051,7 +5436,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/95.png",
       "large": "https://images.pokemontcg.io/ex9/95_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "ex9-96",
@@ -5121,7 +5509,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/96.png",
       "large": "https://images.pokemontcg.io/ex9/96_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "ex9-97",
@@ -5188,7 +5579,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/97.png",
       "large": "https://images.pokemontcg.io/ex9/97_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "ex9-98",
@@ -5251,7 +5645,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/98.png",
       "large": "https://images.pokemontcg.io/ex9/98_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "ex9-99",
@@ -5314,7 +5711,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/99.png",
       "large": "https://images.pokemontcg.io/ex9/99_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "ex9-100",
@@ -5376,7 +5776,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/100.png",
       "large": "https://images.pokemontcg.io/ex9/100_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "ex9-101",
@@ -5395,7 +5798,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/101.png",
       "large": "https://images.pokemontcg.io/ex9/101_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "ex9-102",
@@ -5414,7 +5820,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/102.png",
       "large": "https://images.pokemontcg.io/ex9/102_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "ex9-103",
@@ -5433,7 +5842,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/103.png",
       "large": "https://images.pokemontcg.io/ex9/103_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "ex9-104",
@@ -5452,7 +5864,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/104.png",
       "large": "https://images.pokemontcg.io/ex9/104_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "ex9-105",
@@ -5471,7 +5886,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/105.png",
       "large": "https://images.pokemontcg.io/ex9/105_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "ex9-106",
@@ -5490,7 +5908,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/106.png",
       "large": "https://images.pokemontcg.io/ex9/106_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "ex9-107",
@@ -5555,6 +5976,9 @@
     "images": {
       "small": "https://images.pokemontcg.io/ex9/107.png",
       "large": "https://images.pokemontcg.io/ex9/107_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   }
 ]

@@ -47,7 +47,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd19/1.png",
       "large": "https://images.pokemontcg.io/mcd19/1_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd19-2",
@@ -97,7 +100,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd19/2.png",
       "large": "https://images.pokemontcg.io/mcd19/2_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd19-3",
@@ -159,7 +165,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd19/3.png",
       "large": "https://images.pokemontcg.io/mcd19/3_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd19-4",
@@ -177,9 +186,7 @@
     ],
     "attacks": [
       {
-        "cost": [
-
-        ],
+        "cost": [],
         "name": "Fury Swipes",
         "text": "Flip 3 coins. This attack does 10 damage for each heads.",
         "damage": "10",
@@ -209,7 +216,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd19/4.png",
       "large": "https://images.pokemontcg.io/mcd19/4_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd19-5",
@@ -268,7 +278,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd19/5.png",
       "large": "https://images.pokemontcg.io/mcd19/5_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd19-6",
@@ -324,7 +337,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd19/6.png",
       "large": "https://images.pokemontcg.io/mcd19/6_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd19-7",
@@ -380,7 +396,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd19/7.png",
       "large": "https://images.pokemontcg.io/mcd19/7_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd19-8",
@@ -430,7 +449,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd19/8.png",
       "large": "https://images.pokemontcg.io/mcd19/8_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd19-9",
@@ -491,7 +513,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd19/9.png",
       "large": "https://images.pokemontcg.io/mcd19/9_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd19-10",
@@ -509,9 +534,7 @@
     ],
     "attacks": [
       {
-        "cost": [
-
-        ],
+        "cost": [],
         "name": "Spoil the Fun",
         "text": "If you go second, this attack does 60 more damage during your first turn.",
         "damage": "10+",
@@ -547,7 +570,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd19/10.png",
       "large": "https://images.pokemontcg.io/mcd19/10_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd19-11",
@@ -563,9 +589,7 @@
     "evolvesFrom": "Alolan Diglett",
     "attacks": [
       {
-        "cost": [
-
-        ],
+        "cost": [],
         "name": "Gold Rush",
         "text": "Discard any number of Metal Energy cards from your hand. This attack does 30 damage for each card you discarded in this way.",
         "damage": "30",
@@ -601,7 +625,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd19/11.png",
       "large": "https://images.pokemontcg.io/mcd19/11_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "mcd19-12",
@@ -658,6 +685,9 @@
     "images": {
       "small": "https://images.pokemontcg.io/mcd19/12.png",
       "large": "https://images.pokemontcg.io/mcd19/12_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   }
 ]

@@ -50,7 +50,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH001.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH001_hires.png"
-    }
+    },
+    "variants": [
+      "Vertical Line Holo"
+    ]
   },
   {
     "id": "swshp-SWSH002",
@@ -102,7 +105,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH002.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH002_hires.png"
-    }
+    },
+    "variants": [
+      "Vertical Line Holo"
+    ]
   },
   {
     "id": "swshp-SWSH003",
@@ -155,7 +161,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH003.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH003_hires.png"
-    }
+    },
+    "variants": [
+      "Vertical Line Holo"
+    ]
   },
   {
     "id": "swshp-SWSH004",
@@ -222,7 +231,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH004.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH004_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH005",
@@ -281,7 +293,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH005.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH005_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH006",
@@ -343,7 +359,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH006.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH006_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH007",
@@ -402,7 +422,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH007.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH007_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH008",
@@ -468,7 +492,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH008.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH008_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH009",
@@ -525,7 +553,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH009.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH009_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH010",
@@ -577,7 +609,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH010.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH010_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo",
+      "Sequin Holo"
+    ]
   },
   {
     "id": "swshp-SWSH011",
@@ -639,7 +675,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH011.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH011_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo",
+      "Sequin Holo"
+    ]
   },
   {
     "id": "swshp-SWSH012",
@@ -690,7 +730,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH012.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH012_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo",
+      "Sequin Holo"
+    ]
   },
   {
     "id": "swshp-SWSH013",
@@ -758,7 +802,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH013.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH013_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo",
+      "Sequin Holo"
+    ]
   },
   {
     "id": "swshp-SWSH014",
@@ -824,7 +872,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH014.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH014_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH015",
@@ -886,7 +938,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH015.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH015_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH016",
@@ -950,7 +1006,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH016.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH016_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH017",
@@ -1014,7 +1074,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH017.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH017_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH018",
@@ -1082,7 +1146,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH018.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH018_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH019",
@@ -1150,7 +1217,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH019.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH019_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH020",
@@ -1214,7 +1284,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH020.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH020_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH021",
@@ -1281,7 +1354,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH021.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH021_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH022",
@@ -1339,7 +1416,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH022.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH022_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH023",
@@ -1399,7 +1480,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH023.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH023_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH024",
@@ -1462,7 +1547,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH024.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH024_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH025",
@@ -1522,7 +1611,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH025.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH025_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH026",
@@ -1581,7 +1674,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH026.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH026_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH027",
@@ -1649,7 +1745,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH027.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH027_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH028",
@@ -1719,7 +1818,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH028.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH028_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo",
+      "EB Games",
+      "GameStop"
+    ]
   },
   {
     "id": "swshp-SWSH029",
@@ -1787,7 +1891,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH029.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH029_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH030",
@@ -1862,7 +1969,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH030.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH030_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH031",
@@ -1921,7 +2032,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH031.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH031_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH032",
@@ -1987,7 +2101,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH032.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH032_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH033",
@@ -2057,7 +2174,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH033.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH033_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH034",
@@ -2123,7 +2243,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH034.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH034_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH035",
@@ -2182,7 +2305,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH035.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH035_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH036",
@@ -2241,7 +2368,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH036.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH036_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH037",
@@ -2302,7 +2433,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH037.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH037_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH038",
@@ -2364,7 +2499,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH038.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH038_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH039",
@@ -2427,7 +2566,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH039.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH039_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo",
+      "25th Anniversary"
+    ]
   },
   {
     "id": "swshp-SWSH040",
@@ -2495,7 +2638,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH040.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH040_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo",
+      "Sequin Holo"
+    ]
   },
   {
     "id": "swshp-SWSH041",
@@ -2557,7 +2704,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH041.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH041_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH042",
@@ -2626,7 +2776,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH042.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH042_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH043",
@@ -2688,7 +2841,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH043.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH043_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH044",
@@ -2753,7 +2910,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH044.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH044_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH045",
@@ -2815,7 +2975,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH045.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH045_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH046",
@@ -2874,7 +3038,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH046.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH046_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH047",
@@ -2940,7 +3107,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH047.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH047_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH048",
@@ -3004,7 +3174,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH048.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH048_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH049",
@@ -3066,7 +3239,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH049.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH049_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH050",
@@ -3134,7 +3311,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH050.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH050_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH051",
@@ -3188,7 +3368,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH051.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH051_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH052",
@@ -3254,7 +3437,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH052.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH052_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH053",
@@ -3318,7 +3504,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH053.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH053_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH054",
@@ -3381,7 +3570,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH054.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH054_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH055",
@@ -3452,7 +3644,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH055.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH055_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH056",
@@ -3516,7 +3712,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH056.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH056_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH057",
@@ -3580,7 +3779,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH057.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH057_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH058",
@@ -3640,7 +3843,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH058.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH058_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH059",
@@ -3699,7 +3905,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH059.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH059_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH060",
@@ -3766,7 +3975,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH060.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH060_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH061",
@@ -3832,7 +4044,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH061.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH061_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH062",
@@ -3890,7 +4106,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH062.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH062_hires.png"
-    }
+    },
+    "variants": [
+      "25th Anniversary"
+    ]
   },
   {
     "id": "swshp-SWSH063",
@@ -3955,7 +4174,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH063.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH063_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH064",
@@ -4020,7 +4242,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH064.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH064_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH065",
@@ -4093,7 +4318,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH065.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH065_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH066",
@@ -4153,7 +4381,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH066.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH066_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH067",
@@ -4217,7 +4449,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH067.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH067_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH068",
@@ -4278,7 +4514,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH068.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH068_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH069",
@@ -4347,7 +4587,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH069.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH069_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH070",
@@ -4399,7 +4643,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH070.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH070_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH071",
@@ -4461,7 +4708,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH071.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH071_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH072",
@@ -4521,7 +4771,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH072.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH072_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH073",
@@ -4582,7 +4835,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH073.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH073_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH074",
@@ -4644,7 +4900,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH074.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH074_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH075",
@@ -4707,7 +4966,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH075.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH075_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH076",
@@ -4775,7 +5037,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH076.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH076_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH077",
@@ -4843,7 +5108,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH077.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH077_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH078",
@@ -4905,7 +5173,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH078.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH078_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH079",
@@ -4965,7 +5237,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH079.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH079_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH080",
@@ -5016,7 +5291,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH080.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH080_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH081",
@@ -5080,7 +5358,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH081.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH081_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH082",
@@ -5133,7 +5414,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH082.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH082_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH083",
@@ -5201,7 +5485,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH083.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH083_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH084",
@@ -5261,7 +5549,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH084.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH084_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH085",
@@ -5324,7 +5616,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH085.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH085_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH086",
@@ -5393,7 +5689,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH086.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH086_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH087",
@@ -5458,7 +5758,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH087.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH087_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH088",
@@ -5519,7 +5822,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH088.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH088_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp"
+    ]
   },
   {
     "id": "swshp-SWSH089",
@@ -5581,7 +5887,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH089.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH089_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp"
+    ]
   },
   {
     "id": "swshp-SWSH090",
@@ -5642,7 +5951,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH090.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH090_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp"
+    ]
   },
   {
     "id": "swshp-SWSH091",
@@ -5710,7 +6022,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH091.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH091_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp"
+    ]
   },
   {
     "id": "swshp-SWSH092",
@@ -5772,7 +6087,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH092.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH092_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH093",
@@ -5834,7 +6152,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH093.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH093_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH094",
@@ -5891,7 +6212,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH094.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH094_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH095",
@@ -5961,7 +6285,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH095.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH095_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH096",
@@ -6029,7 +6356,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH096.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH096_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH097",
@@ -6097,7 +6427,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH097.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH097_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH098",
@@ -6157,7 +6491,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH098.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH098_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH099",
@@ -6221,7 +6558,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH099.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH099_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH100",
@@ -6288,7 +6629,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH100.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH100_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH101",
@@ -6354,7 +6698,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH101.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH101_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH102",
@@ -6423,7 +6770,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH102.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH102_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH103",
@@ -6492,7 +6843,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH103.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH103_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH104",
@@ -6555,7 +6910,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH104.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH104_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH105",
@@ -6619,7 +6977,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH105.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH105_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH106",
@@ -6686,7 +7047,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH106.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH106_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH107",
@@ -6753,7 +7118,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH107.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH107_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH108",
@@ -6817,7 +7186,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH108.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH108_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH109",
@@ -6887,7 +7259,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH109.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH109_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH110",
@@ -6947,7 +7322,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH110.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH110_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH111",
@@ -7017,7 +7395,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH111.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH111_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo",
+      "Play! Pokémon"
+    ]
   },
   {
     "id": "swshp-SWSH112",
@@ -7077,7 +7460,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH112.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH112_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH113",
@@ -7137,7 +7524,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH113.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH113_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp"
+    ]
   },
   {
     "id": "swshp-SWSH114",
@@ -7203,7 +7593,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH114.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH114_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp"
+    ]
   },
   {
     "id": "swshp-SWSH115",
@@ -7261,7 +7654,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH115.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH115_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp"
+    ]
   },
   {
     "id": "swshp-SWSH116",
@@ -7320,7 +7716,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH116.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH116_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH117",
@@ -7383,7 +7782,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH117.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH117_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH118",
@@ -7452,7 +7854,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH118.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH118_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH119",
@@ -7518,7 +7923,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH119.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH119_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH120",
@@ -7542,7 +7950,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH120.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH120_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH121",
@@ -7566,7 +7977,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH121.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH121_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH122",
@@ -7630,7 +8044,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH122.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH122_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH123",
@@ -7696,7 +8114,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH123.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH123_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH124",
@@ -7751,7 +8173,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH124.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH124_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH125",
@@ -7811,7 +8237,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH125.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH125_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH126",
@@ -7883,7 +8313,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH126.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH126_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH127",
@@ -7954,7 +8387,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH127.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH127_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH128",
@@ -8016,7 +8452,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH128.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH128_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH129",
@@ -8078,7 +8517,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH129.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH129_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH130",
@@ -8144,7 +8586,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH130.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH130_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH131",
@@ -8215,7 +8661,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH131.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH131_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH132",
@@ -8279,7 +8729,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH132.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH132_hires.png"
-    }
+    },
+    "variants": [
+      "25th Anniversary"
+    ]
   },
   {
     "id": "swshp-SWSH133",
@@ -8336,7 +8789,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH133.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH133_hires.png"
-    }
+    },
+    "variants": [
+      "25th Anniversary"
+    ]
   },
   {
     "id": "swshp-SWSH134",
@@ -8401,7 +8857,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH134.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH134_hires.png"
-    }
+    },
+    "variants": [
+      "25th Anniversary"
+    ]
   },
   {
     "id": "swshp-SWSH135",
@@ -8469,7 +8928,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH135.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH135_hires.png"
-    }
+    },
+    "variants": [
+      "25th Anniversary"
+    ]
   },
   {
     "id": "swshp-SWSH136",
@@ -8528,7 +8990,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH136.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH136_hires.png"
-    }
+    },
+    "variants": [
+      "25th Anniversary"
+    ]
   },
   {
     "id": "swshp-SWSH137",
@@ -8592,7 +9057,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH137.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH137_hires.png"
-    }
+    },
+    "variants": [
+      "25th Anniversary"
+    ]
   },
   {
     "id": "swshp-SWSH138",
@@ -8656,7 +9124,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH138.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH138_hires.png"
-    }
+    },
+    "variants": [
+      "25th Anniversary"
+    ]
   },
   {
     "id": "swshp-SWSH139",
@@ -8744,7 +9215,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH139.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH139_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH140",
@@ -8832,7 +9307,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH140.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH140_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH141",
@@ -8920,7 +9398,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH141.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH141_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH142",
@@ -9008,7 +9489,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH142.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH142_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH143",
@@ -9066,7 +9550,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH143.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH143_hires.png"
-    }
+    },
+    "variants": [
+      "25th Anniversary"
+    ]
   },
   {
     "id": "swshp-SWSH144",
@@ -9126,7 +9613,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH144.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH144_hires.png"
-    }
+    },
+    "variants": [
+      "25th Anniversary"
+    ]
   },
   {
     "id": "swshp-SWSH145",
@@ -9184,7 +9674,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH145.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH145_hires.png"
-    }
+    },
+    "variants": [
+      "25th Anniversary"
+    ]
   },
   {
     "id": "swshp-SWSH146",
@@ -9209,7 +9702,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH146.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH146_hires.png"
-    }
+    },
+    "variants": [
+      "25th Anniversary"
+    ]
   },
   {
     "id": "swshp-SWSH147",
@@ -9268,7 +9764,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH147.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH147_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH148",
@@ -9321,7 +9820,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH148.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH148_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH149",
@@ -9387,7 +9889,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH149.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH149_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Play! Pokémon"
+    ]
   },
   {
     "id": "swshp-SWSH150",
@@ -9453,7 +9959,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH150.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH150_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Play! Pokémon"
+    ]
   },
   {
     "id": "swshp-SWSH151",
@@ -9513,7 +10023,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH151.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH151_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Play! Pokémon"
+    ]
   },
   {
     "id": "swshp-SWSH152",
@@ -9538,7 +10052,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH152.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH152_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH153",
@@ -9591,7 +10108,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH153.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH153_hires.png"
-    }
+    },
+    "variants": [
+      "Holiday Calendar 2022"
+    ]
   },
   {
     "id": "swshp-SWSH154",
@@ -9652,7 +10172,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH154.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH154_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH155",
@@ -9754,7 +10278,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH155.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH155_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH156",
@@ -9856,7 +10384,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH156.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH156_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH157",
@@ -9958,7 +10489,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH157.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH157_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH158",
@@ -10060,7 +10594,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH158.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH158_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH159",
@@ -10161,7 +10698,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH159.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH159_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH160",
@@ -10262,7 +10803,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH160.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH160_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH161",
@@ -10363,7 +10907,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH161.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH161_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH162",
@@ -10464,7 +11011,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH162.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH162_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH163",
@@ -10558,7 +11108,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH163.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH163_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH164",
@@ -10652,7 +11206,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH164.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH164_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH165",
@@ -10746,7 +11303,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH165.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH165_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH166",
@@ -10840,7 +11400,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH166.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH166_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH167",
@@ -10865,7 +11428,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH167.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH167_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "25th Anniversary",
+      "Professor Program"
+    ]
   },
   {
     "id": "swshp-SWSH168",
@@ -10924,7 +11492,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH168.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH168_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp"
+    ]
   },
   {
     "id": "swshp-SWSH169",
@@ -10983,7 +11554,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH169.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH169_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp"
+    ]
   },
   {
     "id": "swshp-SWSH170",
@@ -11044,7 +11618,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH170.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH170_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp"
+    ]
   },
   {
     "id": "swshp-SWSH171",
@@ -11098,7 +11675,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH171.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH171_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp"
+    ]
   },
   {
     "id": "swshp-SWSH172",
@@ -11165,7 +11745,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH172.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH172_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH173",
@@ -11219,7 +11802,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH173.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH173_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH174",
@@ -11286,7 +11872,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH174.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH174_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH175",
@@ -11357,7 +11946,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH175.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH175_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH176",
@@ -11421,7 +12013,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH176.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH176_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH177",
@@ -11483,7 +12079,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH177.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH177_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH178",
@@ -11508,7 +12107,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH178.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH178_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Vertical Line Holo"
+    ]
   },
   {
     "id": "swshp-SWSH179",
@@ -11574,7 +12177,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH179.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH179_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH180",
@@ -11631,7 +12237,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH180.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH180_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH181",
@@ -11697,7 +12307,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH181.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH181_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH182",
@@ -11763,7 +12376,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH182.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH182_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH183",
@@ -11823,7 +12440,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH183.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH183_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH184",
@@ -11873,7 +12493,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH184.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH184_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH185",
@@ -11923,7 +12547,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH185.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH185_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH186",
@@ -11983,7 +12611,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH186.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH186_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH187",
@@ -12042,7 +12674,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH187.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH187_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH188",
@@ -12103,7 +12739,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH188.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH188_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH189",
@@ -12158,7 +12798,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH189.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH189_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH190",
@@ -12229,7 +12872,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH190.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH190_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH191",
@@ -12290,7 +12936,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH191.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH191_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH192",
@@ -12352,7 +13001,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH192.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH192_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH193",
@@ -12406,7 +13058,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH193.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH193_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "swshp-SWSH194",
@@ -12471,7 +13126,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH194.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH194_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH195",
@@ -12534,7 +13192,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH195.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH195_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo",
+      "Play! Pokémon"
+    ]
   },
   {
     "id": "swshp-SWSH196",
@@ -12599,7 +13262,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH196.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH196_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH197",
@@ -12666,7 +13332,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH197.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH197_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo",
+      "Play! Pokémon"
+    ]
   },
   {
     "id": "swshp-SWSH198",
@@ -12724,7 +13395,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH198.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH198_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH199",
@@ -12788,7 +13463,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH199.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH199_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH200",
@@ -12858,7 +13536,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH200.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH200_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH201",
@@ -12928,7 +13609,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH201.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH201_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH202",
@@ -12990,7 +13674,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH202.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH202_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH203",
@@ -13056,7 +13743,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH203.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH203_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH204",
@@ -13122,7 +13812,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH204.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH204_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH205",
@@ -13185,7 +13878,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH205.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH205_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH206",
@@ -13251,7 +13948,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH206.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH206_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH207",
@@ -13312,7 +14013,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH207.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH207_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH208",
@@ -13379,7 +14084,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH208.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH208_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH209",
@@ -13442,7 +14151,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH209.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH209_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH210",
@@ -13510,7 +14222,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH210.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH210_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH211",
@@ -13571,7 +14286,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH211.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH211_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH212",
@@ -13642,7 +14360,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH212.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH212_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH213",
@@ -13708,7 +14429,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH213.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH213_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH214",
@@ -13774,7 +14498,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH214.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH214_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH215",
@@ -13860,7 +14588,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH215.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH215_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH216",
@@ -13946,7 +14678,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH216.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH216_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH217",
@@ -14032,7 +14767,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH217.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH217_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH218",
@@ -14118,7 +14856,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH218.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH218_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH219",
@@ -14182,7 +14923,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH219.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH219_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH220",
@@ -14235,7 +14980,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH220.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH220_hires.png"
-    }
+    },
+    "variants": [
+      "Sheen Holo",
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH221",
@@ -14297,7 +15046,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH221.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH221_hires.png"
-    }
+    },
+    "variants": [
+      "Sheen Holo",
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH222",
@@ -14350,7 +15103,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH222.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH222_hires.png"
-    }
+    },
+    "variants": [
+      "Sheen Holo",
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH223",
@@ -14422,7 +15179,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH223.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH223_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH224",
@@ -14495,7 +15255,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH224.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH224_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH225",
@@ -14561,7 +15324,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH225.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH225_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH226",
@@ -14586,7 +15353,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH226.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH226_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH227",
@@ -14611,7 +15382,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH227.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH227_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH228",
@@ -14636,7 +15411,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH228.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH228_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH229",
@@ -14708,7 +15487,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH229.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH229_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH230",
@@ -14783,7 +15565,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH230.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH230_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH231",
@@ -14847,7 +15633,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH231.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH231_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH232",
@@ -14900,7 +15689,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH232.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH232_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH233",
@@ -14953,7 +15745,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH233.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH233_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH234",
@@ -15017,7 +15812,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH234.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH234_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH235",
@@ -15077,7 +15875,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH235.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH235_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH236",
@@ -15137,7 +15938,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH236.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH236_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH237",
@@ -15157,9 +15961,7 @@
     "attacks": [
       {
         "name": "Singe",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "",
         "text": "Your opponent's Active Pokémon is now Burned."
@@ -15208,7 +16010,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH237.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH237_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH238",
@@ -15273,7 +16078,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH238.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH238_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH239",
@@ -15338,7 +16146,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH239.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH239_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH240",
@@ -15398,7 +16209,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH240.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH240_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH241",
@@ -15463,7 +16278,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH241.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH241_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH242",
@@ -15521,7 +16340,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH242.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH242_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH243",
@@ -15581,7 +16404,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH243.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH243_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH244",
@@ -15645,7 +16472,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH244.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH244_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH245",
@@ -15698,7 +16528,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH245.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH245_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH246",
@@ -15760,7 +16593,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH246.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH246_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH247",
@@ -15825,7 +16661,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH247.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH247_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH248",
@@ -15890,7 +16729,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH248.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH248_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH249",
@@ -15954,7 +16796,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH249.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH249_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH250",
@@ -16016,7 +16862,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH250.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH250_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH251",
@@ -16041,7 +16890,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH251.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH251_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH252",
@@ -16101,7 +16953,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH252.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH252_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH253",
@@ -16166,7 +17022,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH253.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH253_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH254",
@@ -16228,7 +17087,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH254.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH254_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH255",
@@ -16300,7 +17163,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH255.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH255_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH256",
@@ -16374,7 +17240,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH256.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH256_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH257",
@@ -16438,7 +17308,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH257.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH257_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH258",
@@ -16504,7 +17377,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH258.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH258_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH259",
@@ -16563,7 +17439,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH259.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH259_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH260",
@@ -16631,7 +17510,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH260.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH260_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH261",
@@ -16700,7 +17582,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH261.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH261_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH262",
@@ -16768,7 +17653,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH262.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH262_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH263",
@@ -16833,7 +17721,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH263.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH263_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH264",
@@ -16899,7 +17790,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH264.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH264_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH265",
@@ -16962,7 +17856,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH265.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH265_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH266",
@@ -17034,7 +17932,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH266.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH266_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH267",
@@ -17104,7 +18005,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH267.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH267_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH268",
@@ -17175,7 +18079,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH268.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH268_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH269",
@@ -17228,7 +18136,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH269.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH269_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH270",
@@ -17287,7 +18199,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH270.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH270_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH271",
@@ -17351,7 +18267,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH271.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH271_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH272",
@@ -17417,7 +18337,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH272.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH272_hires.png"
-    }
+    },
+    "variants": [
+      "Set Stamp",
+      "Set Stamp (Staff)"
+    ]
   },
   {
     "id": "swshp-SWSH273",
@@ -17477,7 +18401,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH273.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH273_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH274",
@@ -17542,7 +18469,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH274.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH274_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH275",
@@ -17602,7 +18532,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH275.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH275_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH276",
@@ -17664,7 +18597,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH276.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH276_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH277",
@@ -17730,7 +18666,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH277.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH277_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH278",
@@ -17790,7 +18729,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH278.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH278_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH279",
@@ -17850,7 +18792,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH279.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH279_hires.png"
-    }
+    },
+    "variants": [
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "swshp-SWSH280",
@@ -17914,7 +18859,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH280.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH280_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH281",
@@ -17974,7 +18923,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH281.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH281_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH282",
@@ -18040,7 +18993,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH282.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH282_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH283",
@@ -18095,7 +19051,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH283.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH283_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH284",
@@ -18155,7 +19114,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH284.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH284_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH285",
@@ -18213,7 +19175,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH285.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH285_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH286",
@@ -18279,7 +19244,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH286.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH286_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH287",
@@ -18365,7 +19334,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH287.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH287_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH288",
@@ -18451,7 +19424,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH288.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH288_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH289",
@@ -18537,7 +19513,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH289.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH289_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH290",
@@ -18623,7 +19602,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH290.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH290_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH291",
@@ -18689,7 +19671,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH291.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH291_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH292",
@@ -18757,7 +19742,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH292.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH292_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH293",
@@ -18825,7 +19814,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH293.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH293_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH294",
@@ -18845,9 +19838,7 @@
     "attacks": [
       {
         "name": "Tantrum Blast",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "100×",
         "text": "This attack does 100 damage for each Special Condition affecting this Pokémon."
@@ -18888,7 +19879,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH294.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH294_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH295",
@@ -18950,7 +19945,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH295.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH295_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH296",
@@ -18974,7 +19973,17 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH296.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH296_hires.png"
-    }
+    },
+    "variants": [
+      "World Championships",
+      "World Championships (Staff)",
+      "World Championships (Champion)",
+      "World Championships (Finalist)",
+      "World Championships (Top 32)",
+      "World Championships (Top 16)",
+      "World Championships (Top 8)",
+      "World Championships (Top 4)"
+    ]
   },
   {
     "id": "swshp-SWSH297",
@@ -18994,9 +20003,7 @@
     "attacks": [
       {
         "name": "Void Return",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "30",
         "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
@@ -19039,7 +20046,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH297.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH297_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH298",
@@ -19101,7 +20111,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH298.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH298_hires.png"
-    }
+    },
+    "variants": [
+      "Holo",
+      "Jumbo"
+    ]
   },
   {
     "id": "swshp-SWSH302",
@@ -19126,7 +20140,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH302.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH302_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH303",
@@ -19140,8 +20157,8 @@
       "Grass"
     ],
     "evolvesTo": [
-	  "Ivysaur"
-	],
+      "Ivysaur"
+    ],
     "attacks": [
       {
         "name": "Shake and Gather",
@@ -19180,7 +20197,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH303.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH303_hires.png"
-    }
+    },
+    "variants": [
+      "Illustration Contest 2022"
+    ]
   },
   {
     "id": "swshp-SWSH304",
@@ -19235,7 +20255,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH304.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH304_hires.png"
-    }
+    },
+    "variants": [
+      "Illustration Contest 2022"
+    ]
   },
   {
     "id": "swshp-SWSH305",
@@ -19288,7 +20311,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH305.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH305_hires.png"
-    }
+    },
+    "variants": [
+      "Illustration Contest 2022"
+    ]
   },
   {
     "id": "swshp-SWSH306",
@@ -19354,7 +20380,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH306.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH306_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "swshp-SWSH307",
@@ -19417,6 +20446,9 @@
     "images": {
       "small": "https://images.pokemontcg.io/swshp/SWSH307.png",
       "large": "https://images.pokemontcg.io/swshp/SWSH307_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   }
 ]

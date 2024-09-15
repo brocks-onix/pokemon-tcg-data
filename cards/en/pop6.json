@@ -63,7 +63,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop6/1.png",
       "large": "https://images.pokemontcg.io/pop6/1_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop6-2",
@@ -122,7 +125,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop6/2.png",
       "large": "https://images.pokemontcg.io/pop6/2_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop6-3",
@@ -180,7 +186,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop6/3.png",
       "large": "https://images.pokemontcg.io/pop6/3_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "pop6-4",
@@ -243,7 +253,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop6/4.png",
       "large": "https://images.pokemontcg.io/pop6/4_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop6-5",
@@ -304,7 +317,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop6/5.png",
       "large": "https://images.pokemontcg.io/pop6/5_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop6-6",
@@ -371,7 +387,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop6/6.png",
       "large": "https://images.pokemontcg.io/pop6/6_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop6-7",
@@ -425,7 +444,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop6/7.png",
       "large": "https://images.pokemontcg.io/pop6/7_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "pop6-8",
@@ -476,7 +499,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop6/8.png",
       "large": "https://images.pokemontcg.io/pop6/8_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "pop6-9",
@@ -536,7 +563,12 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop6/9.png",
       "large": "https://images.pokemontcg.io/pop6/9_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Cosmos Holo",
+      "Pokémon Day"
+    ]
   },
   {
     "id": "pop6-10",
@@ -601,7 +633,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop6/10.png",
       "large": "https://images.pokemontcg.io/pop6/10_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop6-11",
@@ -661,7 +696,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop6/11.png",
       "large": "https://images.pokemontcg.io/pop6/11_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop6-12",
@@ -722,7 +760,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop6/12.png",
       "large": "https://images.pokemontcg.io/pop6/12_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop6-13",
@@ -789,7 +830,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop6/13.png",
       "large": "https://images.pokemontcg.io/pop6/13_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop6-14",
@@ -809,9 +853,7 @@
     "attacks": [
       {
         "name": "Scratch",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": ""
@@ -850,7 +892,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop6/14.png",
       "large": "https://images.pokemontcg.io/pop6/14_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "pop6-15",
@@ -870,9 +916,7 @@
     "attacks": [
       {
         "name": "Peck",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": ""
@@ -911,7 +955,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop6/15.png",
       "large": "https://images.pokemontcg.io/pop6/15_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "pop6-16",
@@ -978,7 +1026,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop6/16.png",
       "large": "https://images.pokemontcg.io/pop6/16_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop6-17",
@@ -998,9 +1049,7 @@
     "attacks": [
       {
         "name": "Tackle",
-        "cost": [
-
-        ],
+        "cost": [],
         "convertedEnergyCost": 0,
         "damage": "10",
         "text": ""
@@ -1045,6 +1094,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop6/17.png",
       "large": "https://images.pokemontcg.io/pop6/17_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Cosmos Holo"
+    ]
   }
 ]

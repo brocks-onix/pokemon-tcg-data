@@ -54,7 +54,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/tk2a/1.png",
       "large": "https://images.pokemontcg.io/tk2a/1_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "tk2a-2",
@@ -112,7 +115,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/tk2a/2.png",
       "large": "https://images.pokemontcg.io/tk2a/2_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "tk2a-3",
@@ -168,7 +174,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/tk2a/3.png",
       "large": "https://images.pokemontcg.io/tk2a/3_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "tk2a-4",
@@ -226,7 +235,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/tk2a/4.png",
       "large": "https://images.pokemontcg.io/tk2a/4_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "tk2a-5",
@@ -288,7 +300,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/tk2a/5.png",
       "large": "https://images.pokemontcg.io/tk2a/5_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "tk2a-6",
@@ -349,7 +364,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/tk2a/6.png",
       "large": "https://images.pokemontcg.io/tk2a/6_hires.png"
-    }
+    },
+    "variants": [
+      "Holo"
+    ]
   },
   {
     "id": "tk2a-7",
@@ -397,7 +415,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/tk2a/7.png",
       "large": "https://images.pokemontcg.io/tk2a/7_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "tk2a-8",
@@ -419,7 +440,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/tk2a/8.png",
       "large": "https://images.pokemontcg.io/tk2a/8_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "tk2a-9",
@@ -441,7 +465,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/tk2a/9.png",
       "large": "https://images.pokemontcg.io/tk2a/9_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "tk2a-10",
@@ -462,7 +489,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/tk2a/10.png",
       "large": "https://images.pokemontcg.io/tk2a/10_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "tk2a-11",
@@ -480,7 +510,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/tk2a/11.png",
       "large": "https://images.pokemontcg.io/tk2a/11_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "tk2a-12",
@@ -498,6 +531,9 @@
     "images": {
       "small": "https://images.pokemontcg.io/tk2a/12.png",
       "large": "https://images.pokemontcg.io/tk2a/12_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   }
 ]

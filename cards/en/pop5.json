@@ -57,7 +57,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop5/1.png",
       "large": "https://images.pokemontcg.io/pop5/1_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "pop5-2",
@@ -116,7 +120,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop5/2.png",
       "large": "https://images.pokemontcg.io/pop5/2_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "pop5-3",
@@ -171,7 +179,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop5/3.png",
       "large": "https://images.pokemontcg.io/pop5/3_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "pop5-4",
@@ -192,7 +204,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop5/4.png",
       "large": "https://images.pokemontcg.io/pop5/4_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop5-5",
@@ -254,7 +269,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop5/5.png",
       "large": "https://images.pokemontcg.io/pop5/5_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop5-6",
@@ -277,7 +295,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop5/6.png",
       "large": "https://images.pokemontcg.io/pop5/6_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop5-7",
@@ -300,7 +321,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop5/7.png",
       "large": "https://images.pokemontcg.io/pop5/7_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop5-8",
@@ -321,7 +345,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop5/8.png",
       "large": "https://images.pokemontcg.io/pop5/8_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop5-9",
@@ -342,7 +369,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop5/9.png",
       "large": "https://images.pokemontcg.io/pop5/9_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop5-10",
@@ -401,7 +431,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop5/10.png",
       "large": "https://images.pokemontcg.io/pop5/10_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop5-11",
@@ -450,7 +483,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop5/11.png",
       "large": "https://images.pokemontcg.io/pop5/11_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop5-12",
@@ -510,7 +546,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop5/12.png",
       "large": "https://images.pokemontcg.io/pop5/12_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Cosmos Holo"
+    ]
   },
   {
     "id": "pop5-13",
@@ -569,7 +609,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop5/13.png",
       "large": "https://images.pokemontcg.io/pop5/13_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop5-14",
@@ -627,7 +670,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop5/14.png",
       "large": "https://images.pokemontcg.io/pop5/14_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Holo"
+    ]
   },
   {
     "id": "pop5-15",
@@ -684,7 +731,11 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop5/15.png",
       "large": "https://images.pokemontcg.io/pop5/15_hires.png"
-    }
+    },
+    "variants": [
+      "Normal",
+      "Holo"
+    ]
   },
   {
     "id": "pop5-16",
@@ -743,7 +794,10 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop5/16.png",
       "large": "https://images.pokemontcg.io/pop5/16_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   },
   {
     "id": "pop5-17",
@@ -807,6 +861,9 @@
     "images": {
       "small": "https://images.pokemontcg.io/pop5/17.png",
       "large": "https://images.pokemontcg.io/pop5/17_hires.png"
-    }
+    },
+    "variants": [
+      "Normal"
+    ]
   }
 ]
